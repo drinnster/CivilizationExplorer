@@ -2,6 +2,8 @@
 
 **CivilizationExplorer** is a digital exploration tool designed to provide insights into ancient civilizations, their histories, timelines, key structures, and geographical distributions. This project aims to preserve and present knowledge about early human societies and their cultural legacies, making it accessible for educational and research purposes.
 
+Note: UI has not been created yet.
+
 ## Table of Contents
 
 - [Description](#description)
