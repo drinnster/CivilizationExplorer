@@ -1,84 +1,155 @@
 {
-    "sea_peoples":[
-        {
-            "name":"Canaan",
-            "description":"A likely landing area for the Sea Peoples. Egypt controlled cities here before losing them.",
-            "coordinates":"32°04'59.9\"N 34°46'59.9\"E"
+    "sea_peoples": [
+      {
+        "name": "Aegean Civilization (Mycenaeans and Minoans)",
+        "time_period": "c. 1600 BCE - 1100 BCE",
+        "yearsAgo": {
+          "start": 3625,
+          "end": 3125
         },
-        {
-            "name":"Battle of the Nile Delta",
-            "description":"Ramesses III’s Victory, c. 1175 BCE. Ramesses III defeated the Sea Peoples in a naval battle, preventing invasion.",
-            "coordinates":"31°15'43.9\"N 32°17'46.3\"E"
-        },
-        {
-            "name":"Ashkelon",
-            "description":"The Philistines (Peleset) settled in the Pentapolis.",
-            "coordinates":"31°40'11.6\"N 34°34'15.6\"E"
-        },
-        {
-            "name":"Ashdod",
-            "description":"The Philistines (Peleset) settled in the Pentapolis.",
-            "coordinates":"31°45'55.4\"N 34°39'02.2\"E"
-        },
-        {
-            "name":"Ekron (Tel Miqne)",
-            "description":"The Philistines (Peleset) settled in the Pentapolis.",
-            "coordinates":"31°52'26.0\"N 34°50'39.1\"E"
-        },
-        {
-            "name":"Gath (Tel es-Safi)",
-            "description":"The Philistines (Peleset) settled in the Pentapolis.",
-            "coordinates":"31°42'19.4\"N 34°50'24.4\"E"
-        },
-        {
-            "name":"Troy",
-            "description":"Possible Sea Peoples' Origins.",
-            "coordinates":"39°57'27.4\"N 26°14'17.2\"E"
-        },
-        {
-            "name":"Miletus",
-            "description":"Lukka Influence. Possible Sea Peoples' Origins.",
-            "coordinates":"37°31'48.0\"N 27°16'32.5\"E"
-        },
-        {
-            "name":"Sardinia",
-            "description":"Sherden homeland? Possible Sea Peoples' Origins.",
-            "coordinates":"40°07'15.2\"N 9°00'46.4\"E"
-        },
-        {
-            "name":"Crete",
-            "description":"Denyen & Ekwesh possible ties to Minoans/Mycanaeans.",
-            "coordinates":"35°14'24.4\"N 24°48'33.5\"E"
-        },
-        {
-            "name":"Walls of the Ruler",
-            "description":"Defended Egypt’s eastern border against Canaanite & Sea Peoples' invasions.",
-            "coordinates":"30°58'01.2\"N 32°30'37.8\"E"
-        },
-        {
-            "name":"Timna Valley",
-            "description":"Possible Egyptian Copper Mines in Canaan. Evidence of Egyptian New Kingdom control of copper mining.",
-            "coordinates":"29°47'15.4\"N 34°59'16.8\"E"
-        },
-        {
-            "name":"Tell el-Farama",
-            "description":"Ancient Pelusium, gateway to Canaan.",
-            "coordinates":"31°03'07.2\"N 32°32'36.2\"E"
-        },
-        {
-            "name":"Maa-Palaeokastro",
-            "description":"Fortified City from the Bronze Age Collapse, Possible Egyptian Interaction with Sea Peoples. This site was fortified after 1200 BCE, around the time of the Sea Peoples' raids on Egypt. Could have been a Sea Peoples' settlement or a refuge from their attacks.",
-            "coordinates":"34°52'58.8\"N 32°19'30.0\"E"
-        },
-        {
-            "name":"Ugarit",
-            "description":"Destroyed during the Sea Peoples' Invasions, Egypt mentioned in its Archives.",
-            "coordinates":"35°35'47.8\"N 35°46'36.1\"E"
-        },
-        {
-            "name":"Siege of Gaza (332 BCE)",
-            "description":"Final Persian Resistance. Before entering Egypt, Alexander besieged Gaza, which resisted for two months before falling.",
-            "coordinates":"31°30'05.8\"N 34°27'59.8\"E"
+        "description": "The Mycenaeans and Minoans were central to Aegean civilization. The collapse of Mycenaean Greece around 1200 BCE is believed to be related to the invasions of the Sea Peoples, internal struggles, and natural disasters. The Minoans, earlier than the Mycenaeans, had a strong influence on Crete and the surrounding islands."
+      },
+      {
+        "name": "Lukka Lands",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "The Lukka people inhabited southwestern Anatolia (modern-day Turkey), particularly in the region of Lycia. They are connected to the Sea Peoples and mentioned in Egyptian records as one of the groups that raided Egypt and other regions of the eastern Mediterranean during the Bronze Age collapse."
+      },
+      {
+        "name": "Cyprus",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "Cyprus was a major trade and cultural hub in the Bronze Age. It was significantly affected by the collapse of the Mycenaean and Hittite civilizations, with many Sea Peoples believed to have passed through or originated from Cyprus. After the collapse, Cyprus entered a period of decline but later flourished during the Iron Age."
+      },
+      {
+        "name": "Sardinia and Sicily (Italy)",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "Sardinia and Sicily were important regions during the Bronze Age. Sardinia experienced an influx of new peoples during the Sea Peoples’ raids, possibly contributing to the spread of their culture. Sicily, a crossroads for many ancient civilizations, likely faced destabilization due to the Sea Peoples during the Bronze Age collapse."
+      },
+      {
+        "name": "Anatolia (Hittites)",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "Anatolia, home to the Hittite Empire, experienced significant turmoil around 1200 BCE due to the Sea Peoples' invasions. The fall of the Hittite Empire is often linked to these invasions, although political instability, economic decline, and internal factors also contributed. After the collapse, the Phrygians and Lydians rose to prominence, marking the beginning of the Iron Age around 1100 BCE."
+      },
+      {
+        "name": "Iron Age and Rise of New Civilizations",
+        "time_period": "c. 1100 BCE",
+        "yearsAgo": 3125,
+        "description": "After the collapse of the Bronze Age civilizations, regions like Cyprus, Anatolia, and the western Mediterranean entered the Iron Age. New civilizations like the Phrygians and Lydians began to emerge, rebuilding the socio-political landscape following the chaos of the Sea Peoples' invasions."
+      },
+      {
+        "name": "Canaan",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "A likely landing area for the Sea Peoples. Egypt controlled cities here before losing them.",
+        "coordinates": "32°04'59.9\"N 34°46'59.9\"E"
+      },
+      {
+        "name": "Battle of the Nile Delta",
+        "time_period": "c. 1175 BCE",
+        "yearsAgo": 3225,
+        "description": "Ramesses III’s Victory, c. 1175 BCE. Ramesses III defeated the Sea Peoples in a naval battle, preventing invasion.",
+        "coordinates": "31°15'43.9\"N 32°17'46.3\"E"
+      },
+      {
+        "name": "Ashkelon",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "The Philistines (Peleset) settled in the Pentapolis.",
+        "coordinates": "31°40'11.6\"N 34°34'15.6\"E"
+      },
+      {
+        "name": "Ashdod",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "The Philistines (Peleset) settled in the Pentapolis.",
+        "coordinates": "31°45'55.4\"N 34°39'02.2\"E"
+      },
+      {
+        "name": "Ekron (Tel Miqne)",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "The Philistines (Peleset) settled in the Pentapolis.",
+        "coordinates": "31°52'26.0\"N 34°50'39.1\"E"
+      },
+      {
+        "name": "Gath (Tel es-Safi)",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "The Philistines (Peleset) settled in the Pentapolis.",
+        "coordinates": "31°42'19.4\"N 34°50'24.4\"E"
+      },
+      {
+        "name": "Troy",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "Possible Sea Peoples' Origins.",
+        "coordinates": "39°57'27.4\"N 26°14'17.2\"E"
+      },
+      {
+        "name": "Miletus",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "Lukka Influence. Possible Sea Peoples' Origins.",
+        "coordinates": "37°31'48.0\"N 27°16'32.5\"E"
+      },
+      {
+        "name": "Sardinia",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "Sherden homeland? Possible Sea Peoples' Origins.",
+        "coordinates": "40°07'15.2\"N 9°00'46.4\"E"
+      },
+      {
+        "name": "Crete",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "Denyen & Ekwesh possible ties to Minoans/Mycanaeans.",
+        "coordinates": "35°14'24.4\"N 24°48'33.5\"E"
+      },
+      {
+        "name": "Walls of the Ruler",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "Defended Egypt’s eastern border against Canaanite & Sea Peoples' invasions.",
+        "coordinates": "30°58'01.2\"N 32°30'37.8\"E"
+      },
+      {
+        "name": "Timna Valley",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "Possible Egyptian Copper Mines in Canaan. Evidence of Egyptian New Kingdom control of copper mining.",
+        "coordinates": "29°47'15.4\"N 34°59'16.8\"E"
+      },
+      {
+        "name": "Tell el-Farama",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "Ancient Pelusium, gateway to Canaan.",
+        "coordinates": "31°03'07.2\"N 32°32'36.2\"E"
+      },
+      {
+        "name": "Maa-Palaeokastro",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "Fortified City from the Bronze Age Collapse, Possible Egyptian Interaction with Sea Peoples. This site was fortified after 1200 BCE, around the time of the Sea Peoples' raids on Egypt. Could have been a Sea Peoples' settlement or a refuge from their attacks.",
+        "coordinates": "34°52'58.8\"N 32°19'30.0\"E"
+      },
+      {
+        "name": "Ugarit",
+        "time_period": "c. 1200 BCE",
+        "yearsAgo": 3225,
+        "description": "Destroyed during the Sea Peoples' Invasions, Egypt mentioned in its Archives.",
+        "coordinates": "35°35'47.8\"N 35°46'36.1\"E"
+      },
+      {
+        "name": "Siege of Gaza (332 BCE)",
+        "time_period": "332 BCE",
+        "yearsAgo": 2357,
+        "description": "Final Persian Resistance. Before entering Egypt, Alexander besieged Gaza, which resisted for two months before falling.",
+          "coordinates": "31°30'05.8\"N 34°27'59.8\"E"
         }
-    ],
-}
+      ]
+    }
