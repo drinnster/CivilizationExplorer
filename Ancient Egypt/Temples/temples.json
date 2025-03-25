@@ -1,0 +1,53 @@
+{
+    "temples":[
+        {
+            "name":"Luxor Temple",
+            "coordinates":"25°42'00.0\"N 32°38'21.0\"E"
+        },
+        {
+            "name":"Karnak Temple",
+            "description":"Largest temple complex in Thebes.",
+            "coordinates":"25°43'07.7\"N 32°39'26.3\"E"
+        },
+        {
+            "name":"Abu Simbel",
+            "description":"Temples of Ramesses II, relocated due to the Aswan Dam.",
+            "coordinates":"22°20'13.9\"N 31°37'32.9\"E"
+        },
+        {
+            "name":"Hathor Temple at Dendera",
+            "description":"One of the best-preserved temples.",
+            "coordinates":"26°08'38.4\"N 32°40'02.6\"E"
+        },
+        {
+            "name":"Kouklia",
+            "description":"Palaepaphos - Worship of Aphrodite with Egyptian Influence.",
+            "coordinates":"34°42'25.9\"N 32°30'10.1\"E",
+            "note":"Aphrodite’s temple here may have had connections to Egyptian fertility goddesses (Hathor, Isis). Egyptian artifacts and Bronze Age trade links found in the region."
+        },
+        {
+            "name":"Temple of Horus at Edfu",
+            "description":"Greek-Egyptian Architecture.",
+            "coordinates":"24°58'40.8\"N 32°52'26.8\"E",
+            "note":"Built under Ptolemaic rule, this temple blended Greek and Egyptian architectural styles while honoring Egyptian deities."
+        },
+        {
+            "name":"Kom Ombo",
+            "description":"Temple of Sobek & Haroeris.",
+            "coordinates":"24°27'09.4\"N 32°55'43.0\"E",
+            "note":"A unique double temple built during the Ptolemaic period, dedicated to both the crocodile god Sobek and the falcon god Haroeris."
+        },
+        {
+            "name":"Rome",
+            "description":"The Egyptian Obelisks & Temples.",
+            "coordinates":"41°53'55.0\"N 12°28'36.5\"E",
+            "note":"After the conquest of Egypt in 30 BCE, Rome absorbed its wealth, culture, and even obelisks, placing them in public spaces. The Temple of Isis in Rome became a major religious center."
+        },
+        {
+            "name":"Seis",
+            "description":"Temple of Neith, Egypt.",
+            "coordinates":"30°57'49.0\"N 30°46'27.1\"E",
+            "note":"Plato wrote that Egyptian priests in Sais told Solon the story of Atlantis."
+        }
+    ],
+}

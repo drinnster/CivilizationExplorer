@@ -1,0 +1,114 @@
+{
+    "greek_influence":[
+        {
+            "name":"Pharos Lighthouse",
+            "description":"One of the Seven Wonders. A massive lighthouse built on the island of Pharos, guiding ships into Alexandria’s harbor.",
+            "coordinates":"31°12'50.4\"N 29°53'08.2\"E"
+        },
+        {
+            "name":"Canopus",
+            "description":"Greek Hellenistic & Religious Influence. A hub of Greek settlement and the cult of Serapis, a deity combining Greek and Egyptian religious elements.",
+            "coordinates":"31°18'43.6\"N 30°04'20.3\"E"
+        },
+        {
+            "name":"Memphis",
+            "description":"Religious & Administrative Center. While Alexandria became the capital, Memphis remained an important religious and administrative center under Greek rule.",
+            "coordinates":"29°50'58.6\"N 31°15'01.4\"E"
+        },
+        {
+            "name":"Naukratis",
+            "description":"The First Greek Colony in Egypt. A Greek trading post established in the 7th century BCE, serving as a cultural and commercial bridge between Greece and Egypt.",
+            "coordinates":"30°53'51.0\"N 30°34'41.9\"E"
+        },
+        {
+            "name":"Temple of Horus at Edfu",
+            "description":"Greek-Egyptian Architecture. Built under Ptolemaic rule, this temple blended Greek and Egyptian architectural styles while honoring Egyptian deities.",
+            "coordinates":"24°58'40.8\"N 32°52'26.8\"E"
+        },
+        {
+            "name":"Kom Ombo",
+            "description":"Temple of Sobek & Haroeris. A unique double temple built during the Ptolemaic period, dedicated to both the crocodile god Sobek and the falcon god Haroeris.",
+            "coordinates":"24°27'09.4\"N 32°55'43.0\"E"
+        },
+        {
+            "name":"Athens",
+            "description":"Egyptian Influence in Classical Greece. Egyptian religion and knowledge influenced Greek thought, with temples to Isis and Serapis appearing in Athens.",
+            "coordinates":"37°58'17.4\"N 23°43'36.8\"E"
+        },
+        {
+            "name":"Delos",
+            "description":"The Island of Egyptian Gods. A major religious and trade hub, Delos had temples dedicated to Isis and Serapis, showing Egypt’s influence in the Aegean.",
+            "coordinates":"37°23'56.8\"N 25°16'27.1\"E"
+        },
+        {
+            "name":"Rhodes",
+            "description":"The Ptolemaic Naval Base. A key ally of Ptolemaic Egypt, Rhodes housed Egyptian-funded projects and was crucial in Mediterranean trade.",
+            "coordinates":"36°26'34.1\"N 28°13'21.0\"E"
+        },
+        {
+            "name":"Pergamon",
+            "description":"Intellectual Rival to Alexandria. The Library of Pergamon was a rival to Alexandria’s Great Library, leading to competition in scholarship and manuscript production.",
+            "coordinates":"39°07'59.9\"N 27°10'59.9\"E"
+        },
+        {
+            "name":"Rome",
+            "description":"The Egyptian Obelisks & Temples. After the conquest of Egypt in 30 BCE, Rome absorbed its wealth, culture, and even obelisks, placing them in public spaces.",
+            "coordinates":"41°53'55.0\"N 12°28'36.5\"E"
+        },
+        {
+            "name":"Naples",
+            "description":"The Egyptian Cult in Southern Italy. Naples had a strong cult of Isis, with Egyptian-style temples and iconography influencing Roman religious practices.",
+            "coordinates":"40°51'06.5\"N 14°16'05.2\"E"
+        },
+        {
+            "name":"Cumae",
+            "description":"Oracle Linked to Egyptian Mysticism. The Sibyl of Cumae, a prophetess in Roman mythology, was believed to be influenced by Egyptian mystical traditions.",
+            "coordinates":"40°50'29.0\"N 14°04'43.7\"E"
+        },
+        {
+            "name":"Seis",
+            "description":"Temple of Neith, Egypt. Plato wrote that Egyptian priests in Sais told Solon the story of Atlantis.",
+            "coordinates":"30°57'49.0\"N 30°46'27.1\"E"
+        },
+        {
+            "name":"Richat Structure",
+            "description":"Speculated as Plato’s Atlantis due to its circular structure and location.",
+            "coordinates":"21°07'27.1\"N 11°23'44.2\"W"
+        },
+        {
+            "name":"Herakleion & Thonis",
+            "description":"Ancient Egyptian port city, sunken in the Mediterranean, where Greek and Egyptian cultures met.",
+            "coordinates":"31°18'26.3\"N 30°02'45.2\"E"
+        },
+        {
+            "name":"Tartessos",
+            "description":"Ancient Iberian Civilization. A lost civilization mentioned by the Greeks, sometimes linked to Atlantis.",
+            "coordinates":"37°11'52.4\"N 6°57'50.0\"W"
+        },
+        {
+            "name":"Jebel Musa",
+            "description":"Pillar of Hercules, Morocco. Ancient writers believed Atlantis lay beyond these pillars, linking them to Plato’s legend.",
+            "coordinates":"35°53'53.2\"N 5°27'09.4\"W"
+        },
+        {
+            "name":"Rock of Gibraltar",
+            "description":"The Myth of Hercules & the Pillars of Hercules. In Greek mythology, Hercules separated these two mountains to create the Strait of Gibraltar.",
+            "coordinates":"36°08'26.9\"N 5°21'13.0\"W"
+        },
+        {
+            "name":"Atlas Mountains",
+            "description":"In Greek mythology, Atlas was condemned to hold up the sky and was linked to a great land named Atlantis. The mountains were named after him, and some theories suggest Atlantis was located nearby.",
+            "coordinates":"1°00'00.0\"N 5°00'00.0\"W"
+        },
+        {
+            "name":"Phoenician Lixus, Morocco",
+            "description":"Possible Atlantis location.",
+            "coordinates":"35°03'00.0\"N 6°01'48.0\"W"
+        },
+        {
+            "name":"Madeira",
+            "description":"Some historians believe Greek myths of western lands were inspired by Egyptian & Phoenician maps.",
+            "coordinates":"32°45'38.5\"N 16°57'34.2\"W"
+        }
+    ],
+}

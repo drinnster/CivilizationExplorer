@@ -1,0 +1,1115 @@
+{
+    "ancientEgypt":{
+       "iceAgesAndEarlyEgypt":[
+          {
+             "name":"Nabla Playa",
+             "note":"Sahara Desert Transformation (Green Sahara to Desert)",
+             "coordinates":"22°30'36.0\"N 30°43'48.0\"E",
+             "description":"The Sahara was once a lush, green savanna with lakes and rivers before desertification set in around 6000–5000 years ago. Ancient megalithic site in the Sahara."
+          },
+          {
+             "name":"Wadi Howar",
+             "note":"Extinct river in Sudan, once connected to the Nile.",
+             "coordinates":"17°00'00.0\"N 27°00'00.0\"E"
+          },
+          {
+             "name":"Air Mountains",
+             "note":"Last refuge of Sahara’s green past.",
+             "coordinates":"18°00'00.0\"N 8°00'00.0\"E"
+          },
+          {
+             "name":"Sinai Peninsula",
+             "note":"The Ice Age & Early Human Migrations.",
+             "coordinates":"29°30'00.0\"N 34°48'00.0\"E",
+             "description":"Humans migrated across frozen and exposed landmasses, shaping ancient civilizations."
+          },
+          {
+             "name":"Southern route to India via Arabian Coast",
+             "note":"Humans migrated across frozen and exposed landmasses.",
+             "coordinates":"15°00'00.0\"N 50°00'00.0\"E"
+          },
+          {
+             "name":"Crossings into the Americas via Beringia",
+             "note":"Humans migrated across frozen and exposed landmasses.",
+             "coordinates":"65°00'00.0\"N 168°00'00.0\"W"
+          }
+       ],
+       "seaLevelChangesAndIceAges":[
+          {
+             "name":"Ice Age Sea Level Changes & Submerged Lands",
+             "note":"During the Last Glacial Maximum (~20,000 years ago), sea level changes submerged lands and exposed vast landmasses.",
+             "coordinates":"52°00'00.0\"N 3°00'00.0\"E"
+          },
+          {
+             "name":"Sundaland",
+             "note":"Submerged lands of Southeast Asia.",
+             "coordinates":"1°00'00.0\"N 113°00'00.0\"E"
+          },
+          {
+             "name":"Beringia",
+             "note":"Land bridge between Siberia & Alaska.",
+             "coordinates":"66°00'00.0\"N 170°00'00.0\"W"
+          }
+       ],
+       "pyramids":[
+          {
+             "name":"Pyramid of Djoser",
+             "coordinates":"29°52'16.6\"N 31°12'59.0\"E"
+          },
+          {
+             "name":"Buried Pyramid",
+             "coordinates":"29°51'57.6\"N 31°12'46.8\"E"
+          },
+          {
+             "name":"Layer Pyramid",
+             "coordinates":"29°55'58.2\"N 31°09'40.5\"E"
+          },
+          {
+             "name":"Pyramid of Meidum",
+             "coordinates":"29°23'17.0\"N 31°09'25.0\"E"
+          },
+          {
+             "name":"Bent Pyramid",
+             "note":"Also known as The Black Pyramid",
+             "coordinates":"29°47'25.0\"N 31°12'33.0\"E"
+          },
+          {
+             "name":"Red Pyramid",
+             "coordinates":"29°48'30.0\"N 31°12'21.0\"E"
+          },
+          {
+             "name":"The Great Pyramid of Giza",
+             "coordinates":"29°58'45.0\"N 31°08'03.0\"E"
+          },
+          {
+             "name":"Pyramid of Djedefre",
+             "coordinates":"30°01'56.0\"N 31°04'29.0\"E"
+          },
+          {
+             "name":"Unfinished Pyramid",
+             "note":"Northern Pyramid of Zawyet el'Aryan",
+             "coordinates":"29°56'24.4\"N 31°09'05.6\"E"
+          },
+          {
+             "name":"Pyramid of Khafre",
+             "coordinates":"29°58'34.0\"N 31°07'51.0\"E"
+          },
+          {
+             "name":"Pyramid of Menkaure",
+             "coordinates":"29°58'21.0\"N 31°07'42.0\"E"
+          },
+          {
+             "name":"Pyramid of Userkaf",
+             "coordinates":"29°52'25.0\"N 31°13'08.0\"E"
+          },
+          {
+             "name":"Pyramid of Sahure",
+             "note":"Unfinished pyramid",
+             "coordinates":"29°53'52.0\"N 31°12'12.0\"E"
+          },
+          {
+             "name":"Pyramid of Neferirkare",
+             "coordinates":"29°53'42.0\"N 31°12'09.0\"E"
+          },
+          {
+             "name":"Pyramid of Neferefre",
+             "coordinates":"29°53'38.0\"N 31°12'06.0\"E"
+          },
+          {
+             "name":"Pyramid of North Abusir",
+             "note":"Unfinished pyramid",
+             "coordinates":"29°53'55.0\"N 31°12'06.0\"E"
+          },
+          {
+             "name":"Pyramid of Nyuserre",
+             "note":"Satellite pyramids",
+             "coordinates":"29°53'44.0\"N 31°12'13.0\"E"
+          },
+          {
+             "name":"Headless Pyramid",
+             "coordinates":"29°52'31.0\"N 31°13'25.0\"E"
+          },
+          {
+             "name":"Pyramid of Djedkare-Isesi",
+             "coordinates":"29°51'04.0\"N 31°13'15.0\"E"
+          },
+          {
+             "name":"Pyramid of Unas",
+             "coordinates":"29°52'06.0\"N 31°12'53.0\"E"
+          },
+          {
+             "name":"Pyramid of Teti",
+             "coordinates":"29°52'31.0\"N 31°13'18.0\"E"
+          },
+          {
+             "name":"Pyramid of Pepi I",
+             "coordinates":"29°51'16.0\"N 31°13'08.0\"E"
+          },
+          {
+             "name":"Pyramid of Pepi II",
+             "coordinates":"29°50'25.1\"N 31°12'47.9\"E"
+          },
+          {
+             "name":"Pyramid of Merenre",
+             "coordinates":"29°51'02.0\"N 31°12'54.0\"E"
+          },
+          {
+             "name":"Pyramid of Ibi",
+             "coordinates":"29°50'30.0\"N 31°13'04.0\"E"
+          },
+          {
+             "name":"Pyramid of Khui",
+             "coordinates":"27°18'28.0\"N 30°52'18.0\"E"
+          },
+          {
+             "name":"Pyramid of Amenemhet I",
+             "coordinates":"29°34'29.6\"N 31°13'31.1\"E"
+          },
+          {
+             "name":"Pyramid of Amenemhat III",
+             "coordinates":"29°47'30.0\"N 31°13'25.0\"E"
+          },
+          {
+             "name":"White Pyramid",
+             "coordinates":"29°48'20.0\"N 31°13'22.0\"E"
+          },
+          {
+             "name":"Pyramid of Sensuret I",
+             "coordinates":"29°33'36.0\"N 31°13'15.4\"E"
+          },
+          {
+             "name":"Pyramid of Senusret II",
+             "coordinates":"29°14'00.0\"N 30°58'00.0\"E"
+          },
+          {
+             "name":"Pyramid of Senusret III",
+             "coordinates":"29°49'08.0\"N 31°13'32.0\"E"
+          },
+          {
+             "name":"Pyramid of Hawara",
+             "coordinates":"29°16'27.0\"N 30°53'56.0\"E"
+          },
+          {
+             "name":"Pyramid of Hawara",
+             "coordinates":"29°16'27.0\"N 30°53'56.0\"E"
+          }
+       ],
+       "miningQuarries":[
+          {
+             "name":"Gebel el-Silsila",
+             "material":"Limestone",
+             "coordinates":"24°38'05.3\"N 32°56'34.8\"E"
+          },
+          {
+             "name":"Masara",
+             "material":"Limestone",
+             "coordinates":"29°59'15.0\"N 31°18'41.0\"E"
+          },
+          {
+             "name":"Granite Quarries",
+             "material":"Granite",
+             "coordinates":"24°04'51.2\"N 32°52'42.2\"E",
+             "note":"For Sarcophagi, Columns, and Obelisks"
+          },
+          {
+             "name":"Faiyum (Widan el-Faras)",
+             "material":"Basalt",
+             "coordinates":"29°24'32.8\"N 30°46'49.1\"E"
+          },
+          {
+             "name":"Giza Plateau",
+             "material":"Local Basalt",
+             "coordinates":"29°58'38.3\"N 31°07'57.0\"E"
+          },
+          {
+             "name":"Gebel el-Asr (Toshka)",
+             "material":"Diorite",
+             "coordinates":"22°27'00.0\"N 30°40'00.1\"E"
+          },
+          {
+             "name":"Hatnub",
+             "material":"Alabaster",
+             "coordinates":"27°40'14.2\"N 31°20'18.6\"E"
+          },
+          {
+             "name":"Gebel Ahmar",
+             "material":"Quartzite",
+             "coordinates":"30°04'12.0\"N 31°18'50.4\"E"
+          },
+          {
+             "name":"Gebel el-Silsila",
+             "material":"Quartzite",
+             "coordinates":"24°37'59.2\"N 32°56'42.0\"E"
+          },
+          {
+             "name":"Serabit el-Khadim Mines",
+             "material":"Turquoise",
+             "coordinates":"29°01'57.0\"N 33°26'15.0\"E"
+          },
+          {
+             "name":"Wadi Maghareh",
+             "material":"Old Kingdom Mines",
+             "coordinates":"29°02'02.0\"N 33°59'12.1\"E"
+          },
+          {
+             "name":"Timna Valley",
+             "material":"Copper",
+             "coordinates":"29°47'15.4\"N 34°59'16.8\"E"
+          },
+          {
+             "name":"Mons Claudianus",
+             "material":"Stone (Roman Empire)",
+             "coordinates":"26°48'46.4\"N 33°35'03.1\"E"
+          },
+          {
+             "name":"Mons Claudianus",
+             "material":"Stone (Roman Empire)",
+             "coordinates":"25°33'00.0\"N 33°16'59.9\"E"
+          }
+       ],
+       "statuesAndObelisks":[
+          {
+             "name":"Sphinx",
+             "coordinates":"29°58'31.0\"N 31°08'15.0\"E"
+          },
+          {
+             "name":"Aswan",
+             "material":"Unfinished obelisks",
+             "note":"Largest known obelisk, never completed",
+             "coordinates":"24°04'54.8\"N 32°53'51.0\"E"
+          },
+          {
+             "name":"Cleopatra's Needles",
+             "note":"Originally in Heliopolis. Moved to London & NYC",
+             "coordinates":"30°05'19.0\"N 31°17'53.9\"E"
+          }
+       ],
+       "tombs":[
+          {
+             "name":"Tomb S9",
+             "coordinates":"26°10'17.0\"N 31°55'30.0\"E"
+          },
+          {
+             "name":"Tomb S10",
+             "coordinates":"26°10'16.0\"N 31°55'27.0\"E"
+          },
+          {
+             "name":"Valley of the Kings",
+             "description":"Royal New Kingdom burials.",
+             "coordinates":"25°44'24.7\"N 32°36'05.0\"E",
+             "note":"Contains 64 known tombs.",
+             "tombs":[
+                {
+                   "name":"KV1 (Ramesses VII)",
+                   "description":"Features scenes from the Book of the Dead but has suffered damage over time."
+                },
+                {
+                   "name":"KV2 (Ramesses II)",
+                   "description":"A large tomb with intricate decorations depicting the pharaoh's journey in the afterlife."
+                },
+                {
+                   "name":"KV3 (Merneptah)",
+                   "description":"Notable for its depictions of religious rituals and military achievements."
+                },
+                {
+                   "name":"KV5 (Sons of Ramesses II)",
+                   "description":"One of the largest tombs, with over 100 chambers."
+                },
+                {
+                   "name":"KV6 (Ramesses IX)",
+                   "description":"Contains well-preserved murals showcasing burial rituals."
+                },
+                {
+                   "name":"KV7 (Ramesses IV)",
+                   "description":"Features extensive decorations from the Book of the Gates and a large sarcophagus."
+                }
+             ]
+          },
+          {
+             "name":"Valley of the Queens",
+             "description":"Queens & royal children’s tombs.",
+             "coordinates":"25°43'59.9\"N 32°34'41.9\"E",
+             "note":"Over 70 tombs found in this valley.",
+             "tombs":[
+                {
+                   "name":"QV51",
+                   "description":"Queen Isis, wife of Ramses III and mother of Ramses VI, her tomb features inscriptions of her presenting offerings to gods. Unfortunately, it is in poor condition."
+                },
+                {
+                   "name":"QV52",
+                   "description":"Queen Titi. Although damaged, it contains detailed inscriptions and depictions of Queen Titi worshipping Egyptian gods such as Ptah and Ra-Horakhty."
+                },
+                {
+                   "name":"QV55",
+                   "description":"Belonged to Amun-her-khepeshef, the eldest son of Ramesses III."
+                },
+                {
+                   "name":"QV88",
+                   "description":"Prince Ahmose. A lesser-known tomb belonging to a prince from the 18th Dynasty."
+                },
+                {
+                   "name":"QV66",
+                   "description":"Belonging to Queen Nefertari, the Great Wife of Pharaoh Ramesses II. Her tomb is often referred to as the 'Sistine Chapel of Ancient Egypt' due to its stunning and well-preserved wall paintings."
+                },
+                {
+                   "name":"QV42",
+                   "description":"Prince Parherwenemef. A son of Ramses III, though his tomb is not well preserved."
+                },
+                {
+                   "name":"Other notable tombs",
+                   "description":"Queen Henuttauy, Prince Menjeperre (son of Thutmose III), Princess Meritamon, Prince Ramses."
+                }
+             ]
+          },
+          {
+             "name":"Saqqara Necropolis",
+             "description":"Step Pyramid, early pharaoh's burials.",
+             "coordinates":"29°52'16.0\"N 31°12'58.0\"E",
+             "note":"Tomb of Hotepsekhemwy, the founder of the Second Dynasty of Egypt."
+          }
+       ],
+       "temples":[
+          {
+             "name":"Luxor Temple",
+             "coordinates":"25°42'00.0\"N 32°38'21.0\"E"
+          },
+          {
+             "name":"Karnak Temple",
+             "description":"Largest temple complex in Thebes.",
+             "coordinates":"25°43'07.7\"N 32°39'26.3\"E"
+          },
+          {
+             "name":"Abu Simbel",
+             "description":"Temples of Ramesses II, relocated due to the Aswan Dam.",
+             "coordinates":"22°20'13.9\"N 31°37'32.9\"E"
+          },
+          {
+             "name":"Hathor Temple at Dendera",
+             "description":"One of the best-preserved temples.",
+             "coordinates":"26°08'38.4\"N 32°40'02.6\"E"
+          },
+          {
+             "name":"Kouklia",
+             "description":"Palaepaphos - Worship of Aphrodite with Egyptian Influence.",
+             "coordinates":"34°42'25.9\"N 32°30'10.1\"E",
+             "note":"Aphrodite’s temple here may have had connections to Egyptian fertility goddesses (Hathor, Isis). Egyptian artifacts and Bronze Age trade links found in the region."
+          },
+          {
+             "name":"Temple of Horus at Edfu",
+             "description":"Greek-Egyptian Architecture.",
+             "coordinates":"24°58'40.8\"N 32°52'26.8\"E",
+             "note":"Built under Ptolemaic rule, this temple blended Greek and Egyptian architectural styles while honoring Egyptian deities."
+          },
+          {
+             "name":"Kom Ombo",
+             "description":"Temple of Sobek & Haroeris.",
+             "coordinates":"24°27'09.4\"N 32°55'43.0\"E",
+             "note":"A unique double temple built during the Ptolemaic period, dedicated to both the crocodile god Sobek and the falcon god Haroeris."
+          },
+          {
+             "name":"Rome",
+             "description":"The Egyptian Obelisks & Temples.",
+             "coordinates":"41°53'55.0\"N 12°28'36.5\"E",
+             "note":"After the conquest of Egypt in 30 BCE, Rome absorbed its wealth, culture, and even obelisks, placing them in public spaces. The Temple of Isis in Rome became a major religious center."
+          },
+          {
+             "name":"Seis",
+             "description":"Temple of Neith, Egypt.",
+             "coordinates":"30°57'49.0\"N 30°46'27.1\"E",
+             "note":"Plato wrote that Egyptian priests in Sais told Solon the story of Atlantis."
+          }
+       ],
+       "villages":[
+          {
+             "name":"Deir el-Medina",
+             "description":"Village for artisans who built royal tombs.",
+             "coordinates":"25°43'59.9\"N 32°36'23.0\"E"
+          },
+          {
+             "name":"Kahun",
+             "description":"Pyramid Builder's Town. Middle Kingdom worker's town.",
+             "coordinates":"29°15'16.2\"N 30°57'28.1\"E"
+          }
+       ],
+       "harbours_ports":[
+          {
+             "name":"Giza ports",
+             "description":"Khufu's Pyramid Harbours",
+             "coordinates":"29°58'45.5\"N 31°08'03.1\"E"
+          },
+          {
+             "name":"Tura Quarry port",
+             "description":"Fine White Limestone (Ancient Troyu)",
+             "coordinates":"30°00'05.4\"N 31°19'04.4\"E"
+          },
+          {
+             "name":"Thoris-Heracleion & Canopus",
+             "description":"Sunken Ports of the Nile Delta",
+             "coordinates":"31°18'27.0\"N 30°00'38.9\"E"
+          },
+          {
+             "name":"Perunefer",
+             "description":"Memphis Royal Harbour. Launched Egypt's navy.",
+             "coordinates":"29°50'56.0\"N 31°15'20.2\"E"
+          },
+          {
+             "name":"Abu Sha'ar",
+             "description":"Ptolemaic-Roman Naval Base. Launched Egypt's navy.",
+             "coordinates":"27°09'00.0\"N 33°40'59.9\"E"
+          },
+          {
+             "name":"Wadi al-Jarf",
+             "description":"Oldest known harbor. Khufu's era c. 2600 BCE",
+             "coordinates":"29°02'43.4\"N 32°39'20.9\"E"
+          },
+          {
+             "name":"Ayn Sokhna",
+             "description":"Old Kingdom Copper Trade Port. Handled copper, incense, and exotic goods from the Sinai and Punt.",
+             "coordinates":"29°37'48.0\"N 32°21'00.0\"E"
+          },
+          {
+             "name":"Myos Hormos",
+             "description":"Main Roman Red Sea port. Egyptian ports used by the Romans for trade with India, Arabia, and East Africa.",
+             "coordinates":"26°09'45.0\"N 34°14'49.9\"E"
+          },
+          {
+             "name":"Rhodes",
+             "description":"The Ptolemaic Naval Base. A key ally of Ptolemaic Egypt, Rhodes housed Egyptian-funded projects and was crucial in Mediterranean trade.",
+             "coordinates":"36°26'34.1\"N 28°13'21.0\"E"
+          }
+       ],
+       "fortresses_military_strongholds":[
+          {
+             "name":"Buhen",
+             "description":"Nubian Fortress. Old Kingdom defense on the Nile. Sunken.",
+             "coordinates":"21°52'50.2\"N 31°16'59.9\"E"
+          },
+          {
+             "name":"Semna Fortress",
+             "description":"Middle Kingdom Nubian border control.",
+             "coordinates":"21°28'00.1\"N 30°57'00.0\"E"
+          },
+          {
+             "name":"Zawiyet Umm el-Rakham",
+             "description":"New Kingdom coastal fortress.",
+             "coordinates":"31°06'15.1\"N 27°13'41.2\"E"
+          },
+          {
+             "name":"Askut",
+             "description":"Fortresses of Nubia.",
+             "coordinates":"22°54'00.0\"N 32°00'00.0\"E"
+          },
+          {
+             "name":"Quban",
+             "description":"Nubian fortress.",
+             "coordinates":"22°25'12.0\"N 31°57'36.0\"E"
+          },
+          {
+             "name":"Pelusium",
+             "description":"A key Roman defensive position on Egypt’s eastern border, guarding against invasions from the Levant.",
+             "coordinates":"31°02'29.8\"N 32°32'24.0\"E"
+          }
+       ],
+       "trading_routes_hubs":[
+          {
+             "name":"Suakin, Sudan",
+             "description":"Possible northern edge of Punt based on ancient trade routes.",
+             "coordinates":"19°06'20.2\"N 37°19'58.1\"E"
+          },
+          {
+             "name":"Dahlak Archipelago, Eritrea",
+             "description":"Fits descriptions of Punt's coastal harbors and myrrh trees.",
+             "coordinates":"15°44'39.8\"N 40°01'40.1\"E"
+          },
+          {
+             "name":"Berbera, Somalia",
+             "description":"Considered by some scholars as a Punt trading center.",
+             "coordinates":"10°25'35.8\"N 45°00'51.5\"E"
+          },
+          {
+             "name":"Ras Hafun, Somalia",
+             "description":"A prehistoric trade site where Egyptians may have obtained gold, incense, and exotic animals.",
+             "coordinates":"10°25'00.1\"N 51°15'00.0\"E"
+          },
+          {
+             "name":"Tayma",
+             "description":"Ancient trade hub.",
+             "coordinates":"27°36'46.1\"N 38°32'43.1\"E"
+          },
+          {
+             "name":"Al-Ula & Dedan",
+             "description":"Ancient city along the incense and spice trade. Lihyanite & Dedanite Kingdoms.",
+             "coordinates":"26°36'25.9\"N 37°55'25.0\"E"
+          },
+          {
+             "name":"Mada'in Saleh (Hegra)",
+             "description":"Nabatean-Egyptian trade.",
+             "coordinates":"26°47'47.4\"N 37°57'11.5\"E"
+          },
+          {
+             "name":"Elephantine",
+             "description":"Southern trade & military outpost, near Aswan.",
+             "coordinates":"24°05'07.4\"N 32°53'13.2\"E"
+          },
+          {
+             "name":"Pyla-Kokkinokremos",
+             "description":"Abandoned city with Egyptian-Mycenaean artifacts. Short-lived fortified settlement (c. 1200 BCE), abandoned suddenly. Egyptian and Mycenaean pottery found here, suggesting a multicultural trading hub.",
+             "coordinates":"34°58'48.0\"N 33°42'29.9\"E"
+          },
+          {
+             "name":"Berenice Troglodytica",
+             "description":"Trade route to India. Egyptian ports used by the Romans for trade with India, Arabia, and East Africa.",
+             "coordinates":"23°55'08.0\"N 35°29'04.9\"E"
+          },
+          {
+             "name":"Alexandria",
+             "description":"Capital of Roman Egypt. The Hellenistic Capital. Ptolemaic Capital & Trade Hub.",
+             "coordinates":"31°12'00.4\"N 29°55'07.3\"E"
+          },
+          {
+             "name":"Naukratis",
+             "description":"The first Greek colony in Egypt. A Greek trading post established in the 7th century BCE, serving as a cultural and commercial bridge between Greece and Egypt.",
+             "coordinates":"30°53'51.0\"N 30°34'41.9\"E"
+          },
+          {
+             "name":"Delos",
+             "description":"The Island of Egyptian Gods. A major religious and trade hub, Delos had temples dedicated to Isis and Serapis, showing Egypt’s influence in the Aegean.",
+             "coordinates":"37°23'56.8\"N 25°16'27.1\"E"
+          }
+       ],
+       "routes":[
+          {
+             "route_name":"The Incense route",
+             "stops":[
+                {
+                   "name":"Najran",
+                   "description":"One of the key stops on the Arabian incense trade route.",
+                   "coordinates":"17°30'19.1\"N 44°07'58.1\"E"
+                },
+                {
+                   "name":"Shabwa",
+                   "description":"Ancient incense capital in Yemen.",
+                   "coordinates":"15°18'54.0\"N 47°10'22.8\"E"
+                },
+                {
+                   "name":"Dedan",
+                   "description":"Major stop in Saudi Arabia, modern Al-Ula.",
+                   "coordinates":"26°46'48.0\"N 37°57'54.0\"E"
+                },
+                {
+                   "name":"Petra",
+                   "coordinates":"30°19'42.6\"N 35°26'39.8\"E"
+                },
+                {
+                   "name":"Gaza",
+                   "description":"The Philistines (Peleset) settled in the Pentapolis.",
+                   "coordinates":"31°30'22.0\"N 34°28'00.1\"E"
+                }
+             ]
+          },
+          {
+             "route_name":"The King's Highway route",
+             "stops":[
+                {
+                   "name":"Heliopolis, Egypt",
+                   "description":"Start point near Memphis.",
+                   "coordinates":"30°08'24.0\"N 31°18'47.2\"E"
+                },
+                {
+                   "name":"Hebron",
+                   "description":"Canaanite & later Israelite city.",
+                   "coordinates":"31°31'57.4\"N 35°05'59.3\"E"
+                },
+                {
+                   "name":"Damascus",
+                   "coordinates":"33°30'49.7\"N 36°16'35.4\"E"
+                },
+                {
+                   "name":"Tjaru",
+                   "description":"Also part of The Way of Horus.",
+                   "coordinates":"30°56'08.9\"N 32°34'35.8\"E"
+                },
+                {
+                   "name":"Gaza",
+                   "description":"The Philistines (Peleset) settled in the Pentapolis.",
+                   "coordinates":"31°30'22.0\"N 34°28'00.1\"E"
+                }
+             ]
+          },
+          {
+             "route_name":"The Way of Horus route",
+             "stops":[
+                {
+                   "name":"Tjaru",
+                   "coordinates":"30°56'08.9\"N 32°34'35.8\"E"
+                },
+                {
+                   "name":"Bir el-Abd",
+                   "description":"Desert water stop, Sinai.",
+                   "coordinates":"30°30'25.9\"N 33°01'09.5\"E"
+                },
+                {
+                   "name":"Tell el-Farama",
+                   "description":"Ancient Pelusium, gateway to Canaan.",
+                   "coordinates":"31°03'07.2\"N 32°32'36.2\"E"
+                }
+             ]
+          },
+          {
+             "route_name":"The Forty Days Road route (Egypt to Sudan)",
+             "stops":[
+                {
+                   "name":"The Darb el-Arbain",
+                   "description":"A major north-south desert trade route connecting Upper Egypt to Nubia and Sudan. It was famous for caravans transporting gold, incense, ivory, and slaves.",
+                   "coordinates":"27°10'44.8\"N 31°11'07.4\"E"
+                },
+                {
+                   "name":"The Darb el-Arbain",
+                   "description":"Kharga Oasis.",
+                   "coordinates":"25°27'04.3\"N 30°32'48.1\"E"
+                },
+                {
+                   "name":"Selima Oasis",
+                   "description":"Part of the Darb el-Arbain.",
+                   "coordinates":"19°53'06.0\"N 29°18'15.1\"E"
+                }
+             ]
+          },
+          {
+             "route_name":"The Darb el-Arbain route",
+             "stops":[
+                {
+                   "name":"Kharga Oasis",
+                   "coordinates":"25°27'04.3\"N 30°32'48.1\"E"
+                },
+                {
+                   "name":"Selima Oasis",
+                   "coordinates":"19°53'06.0\"N 29°18'15.1\"E"
+                },
+                {
+                   "name":"Kawa Oasis",
+                   "coordinates":"18°03'09.0\"N 30°57'23.0\"E"
+                },
+                {
+                   "name":"Kerma",
+                   "description":"Major Nubian Kingdom, end of route.",
+                   "coordinates":"19°36'36.0\"N 30°24'54.0\"E"
+                }
+             ]
+          },
+          {
+             "route_name":"The Red Sea Trade route",
+             "stops":[
+                {
+                   "name":"Wadi al-Jarf",
+                   "description":"Oldest known Egyptian harbor, Red Sea.",
+                   "coordinates":"29°20'53.2\"N 32°39'17.3\"E"
+                },
+                {
+                   "name":"Mersa Gawasis",
+                   "description":"Middle Kingdom Red Sea Port.",
+                   "coordinates":"26°36'47.9\"N 34°03'07.9\"E"
+                },
+                {
+                   "name":"Quseir al-Qadim",
+                   "description":"Possible Roman continuation of this route.",
+                   "coordinates":"26°09'00.0\"N 34°16'00.1\"E"
+                },
+                {
+                   "name":"Aden, Yemen",
+                   "description":"Arabian trade hub for incense & myrrh.",
+                   "coordinates":"12°46'45.8\"N 45°02'12.1\"E"
+                },
+                {
+                   "name":"Punt",
+                   "description":"Likely near modern Eritrea or Somalia.",
+                   "coordinates":"10°00'00.0\"N 48°00'00.0\"E"
+                }
+             ]
+          }
+       ],
+       "miscellaneous_religious_sites":[
+          {
+             "name":"Thaj",
+             "description":"Hellenistic-era city with Egyptian artifacts.",
+             "coordinates":"26°03'06.1\"N 49°25'32.2\"E"
+          },
+          {
+             "name":"Qurayyah",
+             "description":"Rock inscriptions show Egyptian-style motifs from the New Kingdom (c. 1400s BCE).",
+             "coordinates":"7°38'30.1\"N 36°09'00.0\"E"
+          },
+          {
+             "name":"Abydos",
+             "description":"Major religious site, early kings’ burial place.",
+             "coordinates":"26°11'02.8\"N 31°55'17.8\"E"
+          },
+          {
+             "name":"Thebes (Luxor)",
+             "description":"New Kingdom capital, religious center.",
+             "coordinates":"25°41'13.9\"N 32°38'22.6\"E"
+          },
+          {
+             "name":"Philae",
+             "description":"Last Bastion of Egyptian Religion. The Temple of Isis at Philae was among the last active centers of traditional Egyptian religion, even under Roman rule.",
+             "coordinates":"24°01'20.6\"N 32°53'33.0\"E"
+          }
+       ],
+       "oasis_locations":[
+          {
+             "name":"Siwa Oasis",
+             "description":"Famous for the Oracle of Amun (consulted by Alexander the Great).",
+             "coordinates":"29°12'11.5\"N 25°31'10.2\"E"
+          },
+          {
+             "name":"Bahariya Oasis",
+             "description":"Gold & mineral-rich area, linked to Egyptian mining expeditions.",
+             "coordinates":"27°38'56.0\"N 28°53'07.8\"E"
+          },
+          {
+             "name":"Dakhla Oasis",
+             "description":"Agricultural & caravan stop in the Western Desert.",
+             "coordinates":"25°30'00.0\"N 29°00'00.0\"E"
+          },
+          {
+             "name":"Kharga Oasis",
+             "coordinates":"25°27'04.3\"N 30°32'48.1\"E"
+          },
+          {
+             "name":"Selima Oasis",
+             "coordinates":"19°53'06.0\"N 29°18'15.1\"E"
+          },
+          {
+             "name":"Kawa Oasis",
+             "coordinates":"18°03'09.0\"N 30°57'23.0\"E"
+          }
+       ],
+       "cyprus":[
+          {
+             "name":"Enkomi",
+             "description":"Possible capital of Alashiya. Kingdom of Alashiya, was a state which existed in the Middle and Late Bronze Ages, and was situated somewhere in the Eastern Mediterranean. Mentioned in Egyptian, Ugaritic, and Hittite texts as a key trade partner.",
+             "coordinates":"35°09'36.4\"N 33°54'12.6\"E"
+          },
+          {
+             "name":"Kition",
+             "description":"Egyptian Trade & Religious Center in Cyprus. Egyptian artifacts, Hathor temple, and sphinx statues were found here.",
+             "coordinates":"34°55'08.0\"N 33°38'04.9\"E"
+          },
+          {
+             "name":"Hala Sultan Tekke",
+             "description":"Archaeological Site with Egyptian Trade Goods. Major Late Bronze Age settlement (1600–1100 BCE).",
+             "coordinates":"34°52'30.0\"N 33°36'43.2\"E"
+          },
+          {
+             "name":"Maa-Palaeokastro",
+             "description":"Fortified City from the Bronze Age Collapse, Possible Egyptian Interaction with Sea Peoples. This site was fortified after 1200 BCE, around the time of the Sea Peoples' raids on Egypt. Could have been a Sea Peoples' settlement or a refuge from their attacks.",
+             "coordinates":"34°52'58.8\"N 32°19'30.0\"E"
+          },
+          {
+             "name":"Kouklia",
+             "description":"Palaepaphos - Worship of Aphrodite with Egyptian Influence. Aphrodite’s temple here may have had connections to Egyptian fertility goddesses (Hathor, Isis). Egyptian artifacts and Bronze Age trade links found in the region.",
+             "coordinates":"34°42'25.9\"N 32°30'10.1\"E"
+          },
+          {
+             "name":"Pyla-Kokkinokremos",
+             "description":"Abandoned City with Egyptian-Mycenaean Artifacts. Short-lived fortified settlement (c. 1200 BCE), abandoned suddenly. Egyptian and Mycenaean pottery found here, suggesting a multicultural trading hub.",
+             "coordinates":"34°58'48.0\"N 33°42'29.9\"E"
+          }
+       ],
+       "syria":[
+          {
+             "name":"Ugarit",
+             "description":"Destroyed during the Sea Peoples' Invasions, Egypt mentioned in its Archives.",
+             "coordinates":"35°35'47.8\"N 35°46'36.1\"E"
+          }
+       ],
+       "lebanon":[
+          {
+             "name":"Byblos",
+             "description":"Lebanese Port, Traded with Both Egypt & Cyprus.",
+             "coordinates":"34°07'24.2\"N 35°39'06.8\"E"
+          }
+       ],
+       "sea_peoples":[
+          {
+             "name":"Canaan",
+             "description":"A likely landing area for the Sea Peoples. Egypt controlled cities here before losing them.",
+             "coordinates":"32°04'59.9\"N 34°46'59.9\"E"
+          },
+          {
+             "name":"Battle of the Nile Delta",
+             "description":"Ramesses III’s Victory, c. 1175 BCE. Ramesses III defeated the Sea Peoples in a naval battle, preventing invasion.",
+             "coordinates":"31°15'43.9\"N 32°17'46.3\"E"
+          },
+          {
+             "name":"Ashkelon",
+             "description":"The Philistines (Peleset) settled in the Pentapolis.",
+             "coordinates":"31°40'11.6\"N 34°34'15.6\"E"
+          },
+          {
+             "name":"Ashdod",
+             "description":"The Philistines (Peleset) settled in the Pentapolis.",
+             "coordinates":"31°45'55.4\"N 34°39'02.2\"E"
+          },
+          {
+             "name":"Ekron (Tel Miqne)",
+             "description":"The Philistines (Peleset) settled in the Pentapolis.",
+             "coordinates":"31°52'26.0\"N 34°50'39.1\"E"
+          },
+          {
+             "name":"Gath (Tel es-Safi)",
+             "description":"The Philistines (Peleset) settled in the Pentapolis.",
+             "coordinates":"31°42'19.4\"N 34°50'24.4\"E"
+          },
+          {
+             "name":"Troy",
+             "description":"Possible Sea Peoples' Origins.",
+             "coordinates":"39°57'27.4\"N 26°14'17.2\"E"
+          },
+          {
+             "name":"Miletus",
+             "description":"Lukka Influence. Possible Sea Peoples' Origins.",
+             "coordinates":"37°31'48.0\"N 27°16'32.5\"E"
+          },
+          {
+             "name":"Sardinia",
+             "description":"Sherden homeland? Possible Sea Peoples' Origins.",
+             "coordinates":"40°07'15.2\"N 9°00'46.4\"E"
+          },
+          {
+             "name":"Crete",
+             "description":"Denyen & Ekwesh possible ties to Minoans/Mycanaeans.",
+             "coordinates":"35°14'24.4\"N 24°48'33.5\"E"
+          },
+          {
+             "name":"Walls of the Ruler",
+             "description":"Defended Egypt’s eastern border against Canaanite & Sea Peoples' invasions.",
+             "coordinates":"30°58'01.2\"N 32°30'37.8\"E"
+          },
+          {
+             "name":"Timna Valley",
+             "description":"Possible Egyptian Copper Mines in Canaan. Evidence of Egyptian New Kingdom control of copper mining.",
+             "coordinates":"29°47'15.4\"N 34°59'16.8\"E"
+          },
+          {
+             "name":"Tell el-Farama",
+             "description":"Ancient Pelusium, gateway to Canaan.",
+             "coordinates":"31°03'07.2\"N 32°32'36.2\"E"
+          },
+          {
+             "name":"Maa-Palaeokastro",
+             "description":"Fortified City from the Bronze Age Collapse, Possible Egyptian Interaction with Sea Peoples. This site was fortified after 1200 BCE, around the time of the Sea Peoples' raids on Egypt. Could have been a Sea Peoples' settlement or a refuge from their attacks.",
+             "coordinates":"34°52'58.8\"N 32°19'30.0\"E"
+          },
+          {
+             "name":"Ugarit",
+             "description":"Destroyed during the Sea Peoples' Invasions, Egypt mentioned in its Archives.",
+             "coordinates":"35°35'47.8\"N 35°46'36.1\"E"
+          },
+          {
+             "name":"Siege of Gaza (332 BCE)",
+             "description":"Final Persian Resistance. Before entering Egypt, Alexander besieged Gaza, which resisted for two months before falling.",
+             "coordinates":"31°30'05.8\"N 34°27'59.8\"E"
+          }
+       ],
+       "roman_empire":[
+          {
+             "name":"Thebes (Luxor)",
+             "description":"New Kingdom capital, religious center. Founded by Emperor Hadrian in honor of his companion Antinous. A Romanized Egyptian city.",
+             "coordinates":"25°41'13.9\"N 32°38'22.6\"E"
+          },
+          {
+             "name":"Pelusium",
+             "description":"A key Roman defensive position on Egypt’s eastern border, guarding against invasions from the Levant.",
+             "coordinates":"31°02'29.8\"N 32°32'24.0\"E"
+          },
+          {
+             "name":"Philae",
+             "description":"Last Bastion of Egyptian Religion. The Temple of Isis at Philae was among the last active centers of traditional Egyptian religion, even under Roman rule.",
+             "coordinates":"24°01'20.6\"N 32°53'33.0\"E"
+          },
+          {
+             "name":"Mons Claudianus",
+             "description":"Roman Stone Quarries.",
+             "coordinates":"26°48'46.4\"N 33°35'03.1\"E"
+          },
+          {
+             "name":"Mons Claudianus",
+             "description":"Another location for Roman Stone Quarries.",
+             "coordinates":"25°33'00.0\"N 33°16'59.9\"E"
+          },
+          {
+             "name":"Myos Hormos",
+             "description":"Main Roman Red Sea port. Egyptian ports used by the Romans for trade with India, Arabia, and East Africa.",
+             "coordinates":"26°09'45.0\"N 34°14'49.9\"E"
+          },
+          {
+             "name":"Berenice Troglodytica",
+             "description":"Trade route to India. Egyptian ports used by the Romans for trade with India, Arabia, and East Africa.",
+             "coordinates":"23°55'08.0\"N 35°29'04.9\"E"
+          },
+          {
+             "name":"Siege of Gaza (332 BCE)",
+             "description":"Final Persian Resistance. Before entering Egypt, Alexander besieged Gaza, which resisted for two months before falling.",
+             "coordinates":"31°30'05.8\"N 34°27'59.8\"E"
+          },
+          {
+             "name":"Siwa Oasis",
+             "description":"Visit to the Oracle of Amun at Siwa Oasis (331 BCE). Alexander the Great traveled through the desert to consult the Oracle of Amun, who allegedly declared him a divine son of Zeus-Ammon.",
+             "coordinates":"29°12'11.5\"N 25°31'10.6\"E"
+          },
+          {
+             "name":"Alexandria",
+             "description":"Capital of Roman Egypt. The Hellenistic Capital. Egypt’s administrative and cultural center under Roman rule, home to the famous Library and Lighthouse. Founded by Alexander the Great, Alexandria became the cultural and economic center of Hellenistic Egypt.",
+             "coordinates":"31°12'00.4\"N 29°55'07.3\"E"
+          },
+          {
+             "name":"The Great Library of Alexandria",
+             "description":"One of the most significant intellectual centers of the ancient world, attracting scholars from across the Mediterranean.",
+             "coordinates":"31°12'32.0\"N 29°54'33.1\"E"
+          },
+          {
+             "name":"Pharos Lighthouse",
+             "description":"One of the Seven Wonders. A massive lighthouse built on the island of Pharos, guiding ships into Alexandria’s harbor.",
+             "coordinates":"31°12'50.4\"N 29°53'08.2\"E"
+          },
+          {
+             "name":"Canopus",
+             "description":"Greek Hellenistic & Religious Influence. A hub of Greek settlement and the cult of Serapis, a deity combining Greek and Egyptian religious elements.",
+             "coordinates":"31°18'43.6\"N 30°04'20.3\"E"
+          },
+          {
+             "name":"Memphis",
+             "description":"Religious & Administrative Center. While Alexandria became the capital, Memphis remained an important religious and administrative center under Greek rule.",
+             "coordinates":"29°50'58.6\"N 31°15'01.4\"E"
+          },
+          {
+             "name":"Rome",
+             "description":"The Egyptian Obelisks & Temples. After the conquest of Egypt in 30 BCE, Rome absorbed its wealth, culture, and even obelisks, placing them in public spaces.",
+             "coordinates":"41°53'55.0\"N 12°28'36.5\"E"
+          },
+          {
+             "name":"Naples",
+             "description":"The Egyptian Cult in Southern Italy.",
+             "coordinates":"40°51'06.5\"N 14°16'05.2\"E"
+          },
+          {
+             "name":"Cumae",
+             "description":"Oracle Linked to Egyptian Mysticism.",
+             "coordinates":"40°50'29.0\"N 14°04'43.7\"E"
+          }
+       ],
+       "greek_influence":[
+          {
+             "name":"Pharos Lighthouse",
+             "description":"One of the Seven Wonders. A massive lighthouse built on the island of Pharos, guiding ships into Alexandria’s harbor.",
+             "coordinates":"31°12'50.4\"N 29°53'08.2\"E"
+          },
+          {
+             "name":"Canopus",
+             "description":"Greek Hellenistic & Religious Influence. A hub of Greek settlement and the cult of Serapis, a deity combining Greek and Egyptian religious elements.",
+             "coordinates":"31°18'43.6\"N 30°04'20.3\"E"
+          },
+          {
+             "name":"Memphis",
+             "description":"Religious & Administrative Center. While Alexandria became the capital, Memphis remained an important religious and administrative center under Greek rule.",
+             "coordinates":"29°50'58.6\"N 31°15'01.4\"E"
+          },
+          {
+             "name":"Naukratis",
+             "description":"The First Greek Colony in Egypt. A Greek trading post established in the 7th century BCE, serving as a cultural and commercial bridge between Greece and Egypt.",
+             "coordinates":"30°53'51.0\"N 30°34'41.9\"E"
+          },
+          {
+             "name":"Temple of Horus at Edfu",
+             "description":"Greek-Egyptian Architecture. Built under Ptolemaic rule, this temple blended Greek and Egyptian architectural styles while honoring Egyptian deities.",
+             "coordinates":"24°58'40.8\"N 32°52'26.8\"E"
+          },
+          {
+             "name":"Kom Ombo",
+             "description":"Temple of Sobek & Haroeris. A unique double temple built during the Ptolemaic period, dedicated to both the crocodile god Sobek and the falcon god Haroeris.",
+             "coordinates":"24°27'09.4\"N 32°55'43.0\"E"
+          },
+          {
+             "name":"Athens",
+             "description":"Egyptian Influence in Classical Greece. Egyptian religion and knowledge influenced Greek thought, with temples to Isis and Serapis appearing in Athens.",
+             "coordinates":"37°58'17.4\"N 23°43'36.8\"E"
+          },
+          {
+             "name":"Delos",
+             "description":"The Island of Egyptian Gods. A major religious and trade hub, Delos had temples dedicated to Isis and Serapis, showing Egypt’s influence in the Aegean.",
+             "coordinates":"37°23'56.8\"N 25°16'27.1\"E"
+          },
+          {
+             "name":"Rhodes",
+             "description":"The Ptolemaic Naval Base. A key ally of Ptolemaic Egypt, Rhodes housed Egyptian-funded projects and was crucial in Mediterranean trade.",
+             "coordinates":"36°26'34.1\"N 28°13'21.0\"E"
+          },
+          {
+             "name":"Pergamon",
+             "description":"Intellectual Rival to Alexandria. The Library of Pergamon was a rival to Alexandria’s Great Library, leading to competition in scholarship and manuscript production.",
+             "coordinates":"39°07'59.9\"N 27°10'59.9\"E"
+          },
+          {
+             "name":"Rome",
+             "description":"The Egyptian Obelisks & Temples. After the conquest of Egypt in 30 BCE, Rome absorbed its wealth, culture, and even obelisks, placing them in public spaces.",
+             "coordinates":"41°53'55.0\"N 12°28'36.5\"E"
+          },
+          {
+             "name":"Naples",
+             "description":"The Egyptian Cult in Southern Italy. Naples had a strong cult of Isis, with Egyptian-style temples and iconography influencing Roman religious practices.",
+             "coordinates":"40°51'06.5\"N 14°16'05.2\"E"
+          },
+          {
+             "name":"Cumae",
+             "description":"Oracle Linked to Egyptian Mysticism. The Sibyl of Cumae, a prophetess in Roman mythology, was believed to be influenced by Egyptian mystical traditions.",
+             "coordinates":"40°50'29.0\"N 14°04'43.7\"E"
+          },
+          {
+             "name":"Seis",
+             "description":"Temple of Neith, Egypt. Plato wrote that Egyptian priests in Sais told Solon the story of Atlantis.",
+             "coordinates":"30°57'49.0\"N 30°46'27.1\"E"
+          },
+          {
+             "name":"Richat Structure",
+             "description":"Speculated as Plato’s Atlantis due to its circular structure and location.",
+             "coordinates":"21°07'27.1\"N 11°23'44.2\"W"
+          },
+          {
+             "name":"Herakleion & Thonis",
+             "description":"Ancient Egyptian port city, sunken in the Mediterranean, where Greek and Egyptian cultures met.",
+             "coordinates":"31°18'26.3\"N 30°02'45.2\"E"
+          },
+          {
+             "name":"Tartessos",
+             "description":"Ancient Iberian Civilization. A lost civilization mentioned by the Greeks, sometimes linked to Atlantis.",
+             "coordinates":"37°11'52.4\"N 6°57'50.0\"W"
+          },
+          {
+             "name":"Jebel Musa",
+             "description":"Pillar of Hercules, Morocco. Ancient writers believed Atlantis lay beyond these pillars, linking them to Plato’s legend.",
+             "coordinates":"35°53'53.2\"N 5°27'09.4\"W"
+          },
+          {
+             "name":"Rock of Gibraltar",
+             "description":"The Myth of Hercules & the Pillars of Hercules. In Greek mythology, Hercules separated these two mountains to create the Strait of Gibraltar.",
+             "coordinates":"36°08'26.9\"N 5°21'13.0\"W"
+          },
+          {
+             "name":"Atlas Mountains",
+             "description":"In Greek mythology, Atlas was condemned to hold up the sky and was linked to a great land named Atlantis. The mountains were named after him, and some theories suggest Atlantis was located nearby.",
+             "coordinates":"1°00'00.0\"N 5°00'00.0\"W"
+          },
+          {
+             "name":"Phoenician Lixus, Morocco",
+             "description":"Possible Atlantis location.",
+             "coordinates":"35°03'00.0\"N 6°01'48.0\"W"
+          },
+          {
+             "name":"Madeira",
+             "description":"Some historians believe Greek myths of western lands were inspired by Egyptian & Phoenician maps.",
+             "coordinates":"32°45'38.5\"N 16°57'34.2\"W"
+          }
+       ]
+    }
+ }

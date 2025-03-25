@@ -1,0 +1,29 @@
+{
+    "religious_sites":[
+        {
+            "name":"Thaj",
+            "description":"Hellenistic-era city with Egyptian artifacts.",
+            "coordinates":"26°03'06.1\"N 49°25'32.2\"E"
+        },
+        {
+            "name":"Qurayyah",
+            "description":"Rock inscriptions show Egyptian-style motifs from the New Kingdom (c. 1400s BCE).",
+            "coordinates":"7°38'30.1\"N 36°09'00.0\"E"
+        },
+        {
+            "name":"Abydos",
+            "description":"Major religious site, early kings’ burial place.",
+            "coordinates":"26°11'02.8\"N 31°55'17.8\"E"
+        },
+        {
+            "name":"Thebes (Luxor)",
+            "description":"New Kingdom capital, religious center.",
+            "coordinates":"25°41'13.9\"N 32°38'22.6\"E"
+        },
+        {
+            "name":"Philae",
+            "description":"Last Bastion of Egyptian Religion. The Temple of Isis at Philae was among the last active centers of traditional Egyptian religion, even under Roman rule.",
+            "coordinates":"24°01'20.6\"N 32°53'33.0\"E"
+        }
+    ],
+}

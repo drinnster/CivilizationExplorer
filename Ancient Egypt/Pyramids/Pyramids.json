@@ -1,0 +1,145 @@
+{
+    "pyramids":[
+        {
+            "name":"Pyramid of Djoser",
+            "coordinates":"29°52'16.6\"N 31°12'59.0\"E"
+        },
+        {
+            "name":"Buried Pyramid",
+            "coordinates":"29°51'57.6\"N 31°12'46.8\"E"
+        },
+        {
+            "name":"Layer Pyramid",
+            "coordinates":"29°55'58.2\"N 31°09'40.5\"E"
+        },
+        {
+            "name":"Pyramid of Meidum",
+            "coordinates":"29°23'17.0\"N 31°09'25.0\"E"
+        },
+        {
+            "name":"Bent Pyramid",
+            "note":"Also known as The Black Pyramid",
+            "coordinates":"29°47'25.0\"N 31°12'33.0\"E"
+        },
+        {
+            "name":"Red Pyramid",
+            "coordinates":"29°48'30.0\"N 31°12'21.0\"E"
+        },
+        {
+            "name":"The Great Pyramid of Giza",
+            "coordinates":"29°58'45.0\"N 31°08'03.0\"E"
+        },
+        {
+            "name":"Pyramid of Djedefre",
+            "coordinates":"30°01'56.0\"N 31°04'29.0\"E"
+        },
+        {
+            "name":"Unfinished Pyramid",
+            "note":"Northern Pyramid of Zawyet el'Aryan",
+            "coordinates":"29°56'24.4\"N 31°09'05.6\"E"
+        },
+        {
+            "name":"Pyramid of Khafre",
+            "coordinates":"29°58'34.0\"N 31°07'51.0\"E"
+        },
+        {
+            "name":"Pyramid of Menkaure",
+            "coordinates":"29°58'21.0\"N 31°07'42.0\"E"
+        },
+        {
+            "name":"Pyramid of Userkaf",
+            "coordinates":"29°52'25.0\"N 31°13'08.0\"E"
+        },
+        {
+            "name":"Pyramid of Sahure",
+            "note":"Unfinished pyramid",
+            "coordinates":"29°53'52.0\"N 31°12'12.0\"E"
+        },
+        {
+            "name":"Pyramid of Neferirkare",
+            "coordinates":"29°53'42.0\"N 31°12'09.0\"E"
+        },
+        {
+            "name":"Pyramid of Neferefre",
+            "coordinates":"29°53'38.0\"N 31°12'06.0\"E"
+        },
+        {
+            "name":"Pyramid of North Abusir",
+            "note":"Unfinished pyramid",
+            "coordinates":"29°53'55.0\"N 31°12'06.0\"E"
+        },
+        {
+            "name":"Pyramid of Nyuserre",
+            "note":"Satellite pyramids",
+            "coordinates":"29°53'44.0\"N 31°12'13.0\"E"
+        },
+        {
+            "name":"Headless Pyramid",
+            "coordinates":"29°52'31.0\"N 31°13'25.0\"E"
+        },
+        {
+            "name":"Pyramid of Djedkare-Isesi",
+            "coordinates":"29°51'04.0\"N 31°13'15.0\"E"
+        },
+        {
+            "name":"Pyramid of Unas",
+            "coordinates":"29°52'06.0\"N 31°12'53.0\"E"
+        },
+        {
+            "name":"Pyramid of Teti",
+            "coordinates":"29°52'31.0\"N 31°13'18.0\"E"
+        },
+        {
+            "name":"Pyramid of Pepi I",
+            "coordinates":"29°51'16.0\"N 31°13'08.0\"E"
+        },
+        {
+            "name":"Pyramid of Pepi II",
+            "coordinates":"29°50'25.1\"N 31°12'47.9\"E"
+        },
+        {
+            "name":"Pyramid of Merenre",
+            "coordinates":"29°51'02.0\"N 31°12'54.0\"E"
+        },
+        {
+            "name":"Pyramid of Ibi",
+            "coordinates":"29°50'30.0\"N 31°13'04.0\"E"
+        },
+        {
+            "name":"Pyramid of Khui",
+            "coordinates":"27°18'28.0\"N 30°52'18.0\"E"
+        },
+        {
+            "name":"Pyramid of Amenemhet I",
+            "coordinates":"29°34'29.6\"N 31°13'31.1\"E"
+        },
+        {
+            "name":"Pyramid of Amenemhat III",
+            "coordinates":"29°47'30.0\"N 31°13'25.0\"E"
+        },
+        {
+            "name":"White Pyramid",
+            "coordinates":"29°48'20.0\"N 31°13'22.0\"E"
+        },
+        {
+            "name":"Pyramid of Sensuret I",
+            "coordinates":"29°33'36.0\"N 31°13'15.4\"E"
+        },
+        {
+            "name":"Pyramid of Senusret II",
+            "coordinates":"29°14'00.0\"N 30°58'00.0\"E"
+        },
+        {
+            "name":"Pyramid of Senusret III",
+            "coordinates":"29°49'08.0\"N 31°13'32.0\"E"
+        },
+        {
+            "name":"Pyramid of Hawara",
+            "coordinates":"29°16'27.0\"N 30°53'56.0\"E"
+        },
+        {
+            "name":"Pyramid of Hawara",
+            "coordinates":"29°16'27.0\"N 30°53'56.0\"E"
+        }
+    ],
+}

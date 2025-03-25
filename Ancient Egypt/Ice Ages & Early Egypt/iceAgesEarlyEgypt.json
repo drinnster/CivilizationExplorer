@@ -1,0 +1,36 @@
+{
+   "iceAgesAndEarlyEgypt":[
+      {
+         "name":"Nabla Playa",
+         "note":"Sahara Desert Transformation (Green Sahara to Desert)",
+         "coordinates":"22°30'36.0\"N 30°43'48.0\"E",
+         "description":"The Sahara was once a lush, green savanna with lakes and rivers before desertification set in around 6000–5000 years ago. Ancient megalithic site in the Sahara."
+      },
+      {
+         "name":"Wadi Howar",
+         "note":"Extinct river in Sudan, once connected to the Nile.",
+         "coordinates":"17°00'00.0\"N 27°00'00.0\"E"
+      },
+      {
+         "name":"Air Mountains",
+         "note":"Last refuge of Sahara’s green past.",
+         "coordinates":"18°00'00.0\"N 8°00'00.0\"E"
+      },
+      {
+         "name":"Sinai Peninsula",
+         "note":"The Ice Age & Early Human Migrations.",
+         "coordinates":"29°30'00.0\"N 34°48'00.0\"E",
+         "description":"Humans migrated across frozen and exposed landmasses, shaping ancient civilizations."
+      },
+      {
+         "name":"Southern route to India via Arabian Coast",
+         "note":"Humans migrated across frozen and exposed landmasses.",
+         "coordinates":"15°00'00.0\"N 50°00'00.0\"E"
+      },
+      {
+         "name":"Crossings into the Americas via Beringia",
+         "note":"Humans migrated across frozen and exposed landmasses.",
+         "coordinates":"65°00'00.0\"N 168°00'00.0\"W"
+      }
+   ]
+}

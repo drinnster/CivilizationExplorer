@@ -1,0 +1,69 @@
+{
+    "trading_routes_hubs":[
+        {
+            "name":"Suakin, Sudan",
+            "description":"Possible northern edge of Punt based on ancient trade routes.",
+            "coordinates":"19°06'20.2\"N 37°19'58.1\"E"
+        },
+        {
+            "name":"Dahlak Archipelago, Eritrea",
+            "description":"Fits descriptions of Punt's coastal harbors and myrrh trees.",
+            "coordinates":"15°44'39.8\"N 40°01'40.1\"E"
+        },
+        {
+            "name":"Berbera, Somalia",
+            "description":"Considered by some scholars as a Punt trading center.",
+            "coordinates":"10°25'35.8\"N 45°00'51.5\"E"
+        },
+        {
+            "name":"Ras Hafun, Somalia",
+            "description":"A prehistoric trade site where Egyptians may have obtained gold, incense, and exotic animals.",
+            "coordinates":"10°25'00.1\"N 51°15'00.0\"E"
+        },
+        {
+            "name":"Tayma",
+            "description":"Ancient trade hub.",
+            "coordinates":"27°36'46.1\"N 38°32'43.1\"E"
+        },
+        {
+            "name":"Al-Ula & Dedan",
+            "description":"Ancient city along the incense and spice trade. Lihyanite & Dedanite Kingdoms.",
+            "coordinates":"26°36'25.9\"N 37°55'25.0\"E"
+        },
+        {
+            "name":"Mada'in Saleh (Hegra)",
+            "description":"Nabatean-Egyptian trade.",
+            "coordinates":"26°47'47.4\"N 37°57'11.5\"E"
+        },
+        {
+            "name":"Elephantine",
+            "description":"Southern trade & military outpost, near Aswan.",
+            "coordinates":"24°05'07.4\"N 32°53'13.2\"E"
+        },
+        {
+            "name":"Pyla-Kokkinokremos",
+            "description":"Abandoned city with Egyptian-Mycenaean artifacts. Short-lived fortified settlement (c. 1200 BCE), abandoned suddenly. Egyptian and Mycenaean pottery found here, suggesting a multicultural trading hub.",
+            "coordinates":"34°58'48.0\"N 33°42'29.9\"E"
+        },
+        {
+            "name":"Berenice Troglodytica",
+            "description":"Trade route to India. Egyptian ports used by the Romans for trade with India, Arabia, and East Africa.",
+            "coordinates":"23°55'08.0\"N 35°29'04.9\"E"
+        },
+        {
+            "name":"Alexandria",
+            "description":"Capital of Roman Egypt. The Hellenistic Capital. Ptolemaic Capital & Trade Hub.",
+            "coordinates":"31°12'00.4\"N 29°55'07.3\"E"
+        },
+        {
+            "name":"Naukratis",
+            "description":"The first Greek colony in Egypt. A Greek trading post established in the 7th century BCE, serving as a cultural and commercial bridge between Greece and Egypt.",
+            "coordinates":"30°53'51.0\"N 30°34'41.9\"E"
+        },
+        {
+            "name":"Delos",
+            "description":"The Island of Egyptian Gods. A major religious and trade hub, Delos had temples dedicated to Isis and Serapis, showing Egypt’s influence in the Aegean.",
+            "coordinates":"37°23'56.8\"N 25°16'27.1\"E"
+        }
+    ],
+}

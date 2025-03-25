@@ -1,0 +1,86 @@
+{
+    "tombs":[
+        {
+            "name":"Tomb S9",
+            "coordinates":"26°10'17.0\"N 31°55'30.0\"E"
+        },
+        {
+            "name":"Tomb S10",
+            "coordinates":"26°10'16.0\"N 31°55'27.0\"E"
+        },
+        {
+            "name":"Valley of the Kings",
+            "description":"Royal New Kingdom burials.",
+            "coordinates":"25°44'24.7\"N 32°36'05.0\"E",
+            "note":"Contains 64 known tombs.",
+            "tombs":[
+            {
+                "name":"KV1 (Ramesses VII)",
+                "description":"Features scenes from the Book of the Dead but has suffered damage over time."
+            },
+            {
+                "name":"KV2 (Ramesses II)",
+                "description":"A large tomb with intricate decorations depicting the pharaoh's journey in the afterlife."
+            },
+            {
+                "name":"KV3 (Merneptah)",
+                "description":"Notable for its depictions of religious rituals and military achievements."
+            },
+            {
+                "name":"KV5 (Sons of Ramesses II)",
+                "description":"One of the largest tombs, with over 100 chambers."
+            },
+            {
+                "name":"KV6 (Ramesses IX)",
+                "description":"Contains well-preserved murals showcasing burial rituals."
+            },
+            {
+                "name":"KV7 (Ramesses IV)",
+                "description":"Features extensive decorations from the Book of the Gates and a large sarcophagus."
+            }
+            ]
+        },
+        {
+            "name":"Valley of the Queens",
+            "description":"Queens & royal children’s tombs.",
+            "coordinates":"25°43'59.9\"N 32°34'41.9\"E",
+            "note":"Over 70 tombs found in this valley.",
+            "tombs":[
+            {
+                "name":"QV51",
+                "description":"Queen Isis, wife of Ramses III and mother of Ramses VI, her tomb features inscriptions of her presenting offerings to gods. Unfortunately, it is in poor condition."
+            },
+            {
+                "name":"QV52",
+                "description":"Queen Titi. Although damaged, it contains detailed inscriptions and depictions of Queen Titi worshipping Egyptian gods such as Ptah and Ra-Horakhty."
+            },
+            {
+                "name":"QV55",
+                "description":"Belonged to Amun-her-khepeshef, the eldest son of Ramesses III."
+            },
+            {
+                "name":"QV88",
+                "description":"Prince Ahmose. A lesser-known tomb belonging to a prince from the 18th Dynasty."
+            },
+            {
+                "name":"QV66",
+                "description":"Belonging to Queen Nefertari, the Great Wife of Pharaoh Ramesses II. Her tomb is often referred to as the 'Sistine Chapel of Ancient Egypt' due to its stunning and well-preserved wall paintings."
+            },
+            {
+                "name":"QV42",
+                "description":"Prince Parherwenemef. A son of Ramses III, though his tomb is not well preserved."
+            },
+            {
+                "name":"Other notable tombs",
+                "description":"Queen Henuttauy, Prince Menjeperre (son of Thutmose III), Princess Meritamon, Prince Ramses."
+            }
+            ]
+        },
+        {
+            "name":"Saqqara Necropolis",
+            "description":"Step Pyramid, early pharaoh's burials.",
+            "coordinates":"29°52'16.0\"N 31°12'58.0\"E",
+            "note":"Tomb of Hotepsekhemwy, the founder of the Second Dynasty of Egypt."
+        }
+    ],
+}

@@ -1,0 +1,19 @@
+{
+    "statuesAndObelisks":[
+        {
+            "name":"Sphinx",
+            "coordinates":"29°58'31.0\"N 31°08'15.0\"E"
+        },
+        {
+            "name":"Aswan",
+            "material":"Unfinished obelisks",
+            "note":"Largest known obelisk, never completed",
+            "coordinates":"24°04'54.8\"N 32°53'51.0\"E"
+        },
+        {
+            "name":"Cleopatra's Needles",
+            "note":"Originally in Heliopolis. Moved to London & NYC",
+            "coordinates":"30°05'19.0\"N 31°17'53.9\"E"
+        }
+    ],
+}

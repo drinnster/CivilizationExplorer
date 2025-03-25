@@ -1,0 +1,34 @@
+{
+    "cyprus":[
+        {
+            "name":"Enkomi",
+            "description":"Possible capital of Alashiya. Kingdom of Alashiya, was a state which existed in the Middle and Late Bronze Ages, and was situated somewhere in the Eastern Mediterranean. Mentioned in Egyptian, Ugaritic, and Hittite texts as a key trade partner.",
+            "coordinates":"35°09'36.4\"N 33°54'12.6\"E"
+        },
+        {
+            "name":"Kition",
+            "description":"Egyptian Trade & Religious Center in Cyprus. Egyptian artifacts, Hathor temple, and sphinx statues were found here.",
+            "coordinates":"34°55'08.0\"N 33°38'04.9\"E"
+        },
+        {
+            "name":"Hala Sultan Tekke",
+            "description":"Archaeological Site with Egyptian Trade Goods. Major Late Bronze Age settlement (1600–1100 BCE).",
+            "coordinates":"34°52'30.0\"N 33°36'43.2\"E"
+        },
+        {
+            "name":"Maa-Palaeokastro",
+            "description":"Fortified City from the Bronze Age Collapse, Possible Egyptian Interaction with Sea Peoples. This site was fortified after 1200 BCE, around the time of the Sea Peoples' raids on Egypt. Could have been a Sea Peoples' settlement or a refuge from their attacks.",
+            "coordinates":"34°52'58.8\"N 32°19'30.0\"E"
+        },
+        {
+            "name":"Kouklia",
+            "description":"Palaepaphos - Worship of Aphrodite with Egyptian Influence. Aphrodite’s temple here may have had connections to Egyptian fertility goddesses (Hathor, Isis). Egyptian artifacts and Bronze Age trade links found in the region.",
+            "coordinates":"34°42'25.9\"N 32°30'10.1\"E"
+        },
+        {
+            "name":"Pyla-Kokkinokremos",
+            "description":"Abandoned City with Egyptian-Mycenaean Artifacts. Short-lived fortified settlement (c. 1200 BCE), abandoned suddenly. Egyptian and Mycenaean pottery found here, suggesting a multicultural trading hub.",
+            "coordinates":"34°58'48.0\"N 33°42'29.9\"E"
+        }
+    ],
+}

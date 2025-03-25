@@ -1,0 +1,84 @@
+{
+    "sea_peoples":[
+        {
+            "name":"Canaan",
+            "description":"A likely landing area for the Sea Peoples. Egypt controlled cities here before losing them.",
+            "coordinates":"32°04'59.9\"N 34°46'59.9\"E"
+        },
+        {
+            "name":"Battle of the Nile Delta",
+            "description":"Ramesses III’s Victory, c. 1175 BCE. Ramesses III defeated the Sea Peoples in a naval battle, preventing invasion.",
+            "coordinates":"31°15'43.9\"N 32°17'46.3\"E"
+        },
+        {
+            "name":"Ashkelon",
+            "description":"The Philistines (Peleset) settled in the Pentapolis.",
+            "coordinates":"31°40'11.6\"N 34°34'15.6\"E"
+        },
+        {
+            "name":"Ashdod",
+            "description":"The Philistines (Peleset) settled in the Pentapolis.",
+            "coordinates":"31°45'55.4\"N 34°39'02.2\"E"
+        },
+        {
+            "name":"Ekron (Tel Miqne)",
+            "description":"The Philistines (Peleset) settled in the Pentapolis.",
+            "coordinates":"31°52'26.0\"N 34°50'39.1\"E"
+        },
+        {
+            "name":"Gath (Tel es-Safi)",
+            "description":"The Philistines (Peleset) settled in the Pentapolis.",
+            "coordinates":"31°42'19.4\"N 34°50'24.4\"E"
+        },
+        {
+            "name":"Troy",
+            "description":"Possible Sea Peoples' Origins.",
+            "coordinates":"39°57'27.4\"N 26°14'17.2\"E"
+        },
+        {
+            "name":"Miletus",
+            "description":"Lukka Influence. Possible Sea Peoples' Origins.",
+            "coordinates":"37°31'48.0\"N 27°16'32.5\"E"
+        },
+        {
+            "name":"Sardinia",
+            "description":"Sherden homeland? Possible Sea Peoples' Origins.",
+            "coordinates":"40°07'15.2\"N 9°00'46.4\"E"
+        },
+        {
+            "name":"Crete",
+            "description":"Denyen & Ekwesh possible ties to Minoans/Mycanaeans.",
+            "coordinates":"35°14'24.4\"N 24°48'33.5\"E"
+        },
+        {
+            "name":"Walls of the Ruler",
+            "description":"Defended Egypt’s eastern border against Canaanite & Sea Peoples' invasions.",
+            "coordinates":"30°58'01.2\"N 32°30'37.8\"E"
+        },
+        {
+            "name":"Timna Valley",
+            "description":"Possible Egyptian Copper Mines in Canaan. Evidence of Egyptian New Kingdom control of copper mining.",
+            "coordinates":"29°47'15.4\"N 34°59'16.8\"E"
+        },
+        {
+            "name":"Tell el-Farama",
+            "description":"Ancient Pelusium, gateway to Canaan.",
+            "coordinates":"31°03'07.2\"N 32°32'36.2\"E"
+        },
+        {
+            "name":"Maa-Palaeokastro",
+            "description":"Fortified City from the Bronze Age Collapse, Possible Egyptian Interaction with Sea Peoples. This site was fortified after 1200 BCE, around the time of the Sea Peoples' raids on Egypt. Could have been a Sea Peoples' settlement or a refuge from their attacks.",
+            "coordinates":"34°52'58.8\"N 32°19'30.0\"E"
+        },
+        {
+            "name":"Ugarit",
+            "description":"Destroyed during the Sea Peoples' Invasions, Egypt mentioned in its Archives.",
+            "coordinates":"35°35'47.8\"N 35°46'36.1\"E"
+        },
+        {
+            "name":"Siege of Gaza (332 BCE)",
+            "description":"Final Persian Resistance. Before entering Egypt, Alexander besieged Gaza, which resisted for two months before falling.",
+            "coordinates":"31°30'05.8\"N 34°27'59.8\"E"
+        }
+    ],
+}

@@ -1,0 +1,49 @@
+{
+    "harbours_ports":[
+        {
+            "name":"Giza ports",
+            "description":"Khufu's Pyramid Harbours",
+            "coordinates":"29°58'45.5\"N 31°08'03.1\"E"
+        },
+        {
+            "name":"Tura Quarry port",
+            "description":"Fine White Limestone (Ancient Troyu)",
+            "coordinates":"30°00'05.4\"N 31°19'04.4\"E"
+        },
+        {
+            "name":"Thoris-Heracleion & Canopus",
+            "description":"Sunken Ports of the Nile Delta",
+            "coordinates":"31°18'27.0\"N 30°00'38.9\"E"
+        },
+        {
+            "name":"Perunefer",
+            "description":"Memphis Royal Harbour. Launched Egypt's navy.",
+            "coordinates":"29°50'56.0\"N 31°15'20.2\"E"
+        },
+        {
+            "name":"Abu Sha'ar",
+            "description":"Ptolemaic-Roman Naval Base. Launched Egypt's navy.",
+            "coordinates":"27°09'00.0\"N 33°40'59.9\"E"
+        },
+        {
+            "name":"Wadi al-Jarf",
+            "description":"Oldest known harbor. Khufu's era c. 2600 BCE",
+            "coordinates":"29°02'43.4\"N 32°39'20.9\"E"
+        },
+        {
+            "name":"Ayn Sokhna",
+            "description":"Old Kingdom Copper Trade Port. Handled copper, incense, and exotic goods from the Sinai and Punt.",
+            "coordinates":"29°37'48.0\"N 32°21'00.0\"E"
+        },
+        {
+            "name":"Myos Hormos",
+            "description":"Main Roman Red Sea port. Egyptian ports used by the Romans for trade with India, Arabia, and East Africa.",
+            "coordinates":"26°09'45.0\"N 34°14'49.9\"E"
+        },
+        {
+            "name":"Rhodes",
+            "description":"The Ptolemaic Naval Base. A key ally of Ptolemaic Egypt, Rhodes housed Egyptian-funded projects and was crucial in Mediterranean trade.",
+            "coordinates":"36°26'34.1\"N 28°13'21.0\"E"
+        }
+    ],
+}

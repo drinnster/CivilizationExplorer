@@ -1,0 +1,14 @@
+{
+    "villages":[
+        {
+            "name":"Deir el-Medina",
+            "description":"Village for artisans who built royal tombs.",
+            "coordinates":"25°43'59.9\"N 32°36'23.0\"E"
+        },
+        {
+            "name":"Kahun",
+            "description":"Pyramid Builder's Town. Middle Kingdom worker's town.",
+            "coordinates":"29°15'16.2\"N 30°57'28.1\"E"
+        }
+    ],
+}

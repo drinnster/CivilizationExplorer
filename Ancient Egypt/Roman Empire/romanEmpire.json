@@ -1,0 +1,89 @@
+{
+    "roman_empire":[
+        {
+            "name":"Thebes (Luxor)",
+            "description":"New Kingdom capital, religious center. Founded by Emperor Hadrian in honor of his companion Antinous. A Romanized Egyptian city.",
+            "coordinates":"25°41'13.9\"N 32°38'22.6\"E"
+        },
+        {
+            "name":"Pelusium",
+            "description":"A key Roman defensive position on Egypt’s eastern border, guarding against invasions from the Levant.",
+            "coordinates":"31°02'29.8\"N 32°32'24.0\"E"
+        },
+        {
+            "name":"Philae",
+            "description":"Last Bastion of Egyptian Religion. The Temple of Isis at Philae was among the last active centers of traditional Egyptian religion, even under Roman rule.",
+            "coordinates":"24°01'20.6\"N 32°53'33.0\"E"
+        },
+        {
+            "name":"Mons Claudianus",
+            "description":"Roman Stone Quarries.",
+            "coordinates":"26°48'46.4\"N 33°35'03.1\"E"
+        },
+        {
+            "name":"Mons Claudianus",
+            "description":"Another location for Roman Stone Quarries.",
+            "coordinates":"25°33'00.0\"N 33°16'59.9\"E"
+        },
+        {
+            "name":"Myos Hormos",
+            "description":"Main Roman Red Sea port. Egyptian ports used by the Romans for trade with India, Arabia, and East Africa.",
+            "coordinates":"26°09'45.0\"N 34°14'49.9\"E"
+        },
+        {
+            "name":"Berenice Troglodytica",
+            "description":"Trade route to India. Egyptian ports used by the Romans for trade with India, Arabia, and East Africa.",
+            "coordinates":"23°55'08.0\"N 35°29'04.9\"E"
+        },
+        {
+            "name":"Siege of Gaza (332 BCE)",
+            "description":"Final Persian Resistance. Before entering Egypt, Alexander besieged Gaza, which resisted for two months before falling.",
+            "coordinates":"31°30'05.8\"N 34°27'59.8\"E"
+        },
+        {
+            "name":"Siwa Oasis",
+            "description":"Visit to the Oracle of Amun at Siwa Oasis (331 BCE). Alexander the Great traveled through the desert to consult the Oracle of Amun, who allegedly declared him a divine son of Zeus-Ammon.",
+            "coordinates":"29°12'11.5\"N 25°31'10.6\"E"
+        },
+        {
+            "name":"Alexandria",
+            "description":"Capital of Roman Egypt. The Hellenistic Capital. Egypt’s administrative and cultural center under Roman rule, home to the famous Library and Lighthouse. Founded by Alexander the Great, Alexandria became the cultural and economic center of Hellenistic Egypt.",
+            "coordinates":"31°12'00.4\"N 29°55'07.3\"E"
+        },
+        {
+            "name":"The Great Library of Alexandria",
+            "description":"One of the most significant intellectual centers of the ancient world, attracting scholars from across the Mediterranean.",
+            "coordinates":"31°12'32.0\"N 29°54'33.1\"E"
+        },
+        {
+            "name":"Pharos Lighthouse",
+            "description":"One of the Seven Wonders. A massive lighthouse built on the island of Pharos, guiding ships into Alexandria’s harbor.",
+            "coordinates":"31°12'50.4\"N 29°53'08.2\"E"
+        },
+        {
+            "name":"Canopus",
+            "description":"Greek Hellenistic & Religious Influence. A hub of Greek settlement and the cult of Serapis, a deity combining Greek and Egyptian religious elements.",
+            "coordinates":"31°18'43.6\"N 30°04'20.3\"E"
+        },
+        {
+            "name":"Memphis",
+            "description":"Religious & Administrative Center. While Alexandria became the capital, Memphis remained an important religious and administrative center under Greek rule.",
+            "coordinates":"29°50'58.6\"N 31°15'01.4\"E"
+        },
+        {
+            "name":"Rome",
+            "description":"The Egyptian Obelisks & Temples. After the conquest of Egypt in 30 BCE, Rome absorbed its wealth, culture, and even obelisks, placing them in public spaces.",
+            "coordinates":"41°53'55.0\"N 12°28'36.5\"E"
+        },
+        {
+            "name":"Naples",
+            "description":"The Egyptian Cult in Southern Italy.",
+            "coordinates":"40°51'06.5\"N 14°16'05.2\"E"
+        },
+        {
+            "name":"Cumae",
+            "description":"Oracle Linked to Egyptian Mysticism.",
+            "coordinates":"40°50'29.0\"N 14°04'43.7\"E"
+        }
+    ],
+}

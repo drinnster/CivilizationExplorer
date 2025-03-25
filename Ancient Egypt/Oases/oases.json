@@ -1,0 +1,31 @@
+{
+    "oasis_locations":[
+        {
+            "name":"Siwa Oasis",
+            "description":"Famous for the Oracle of Amun (consulted by Alexander the Great).",
+            "coordinates":"29°12'11.5\"N 25°31'10.2\"E"
+        },
+        {
+            "name":"Bahariya Oasis",
+            "description":"Gold & mineral-rich area, linked to Egyptian mining expeditions.",
+            "coordinates":"27°38'56.0\"N 28°53'07.8\"E"
+        },
+        {
+            "name":"Dakhla Oasis",
+            "description":"Agricultural & caravan stop in the Western Desert.",
+            "coordinates":"25°30'00.0\"N 29°00'00.0\"E"
+        },
+        {
+            "name":"Kharga Oasis",
+            "coordinates":"25°27'04.3\"N 30°32'48.1\"E"
+        },
+        {
+            "name":"Selima Oasis",
+            "coordinates":"19°53'06.0\"N 29°18'15.1\"E"
+        },
+        {
+            "name":"Kawa Oasis",
+            "coordinates":"18°03'09.0\"N 30°57'23.0\"E"
+        }
+    ],
+}

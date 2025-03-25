@@ -1,0 +1,19 @@
+{
+    "iceAgesSeaLevelChanges":[
+        {
+            "name":"Ice Age Sea Level Changes & Submerged Lands",
+            "note":"During the Last Glacial Maximum (~20,000 years ago), sea level changes submerged lands and exposed vast landmasses.",
+            "coordinates":"52°00'00.0\"N 3°00'00.0\"E"
+        },
+        {
+            "name":"Sundaland",
+            "note":"Submerged lands of Southeast Asia.",
+            "coordinates":"1°00'00.0\"N 113°00'00.0\"E"
+        },
+        {
+            "name":"Beringia",
+            "note":"Land bridge between Siberia & Alaska.",
+            "coordinates":"66°00'00.0\"N 170°00'00.0\"W"
+        }
+    ]
+}

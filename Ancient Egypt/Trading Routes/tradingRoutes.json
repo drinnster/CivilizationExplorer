@@ -1,0 +1,153 @@
+{
+    "routes":[
+        {
+            "route_name":"The Incense route",
+            "stops":[
+            {
+                "name":"Najran",
+                "description":"One of the key stops on the Arabian incense trade route.",
+                "coordinates":"17°30'19.1\"N 44°07'58.1\"E"
+            },
+            {
+                "name":"Shabwa",
+                "description":"Ancient incense capital in Yemen.",
+                "coordinates":"15°18'54.0\"N 47°10'22.8\"E"
+            },
+            {
+                "name":"Dedan",
+                "description":"Major stop in Saudi Arabia, modern Al-Ula.",
+                "coordinates":"26°46'48.0\"N 37°57'54.0\"E"
+            },
+            {
+                "name":"Petra",
+                "coordinates":"30°19'42.6\"N 35°26'39.8\"E"
+            },
+            {
+                "name":"Gaza",
+                "description":"The Philistines (Peleset) settled in the Pentapolis.",
+                "coordinates":"31°30'22.0\"N 34°28'00.1\"E"
+            }
+            ]
+        },
+        {
+            "route_name":"The King's Highway route",
+            "stops":[
+            {
+                "name":"Heliopolis, Egypt",
+                "description":"Start point near Memphis.",
+                "coordinates":"30°08'24.0\"N 31°18'47.2\"E"
+            },
+            {
+                "name":"Hebron",
+                "description":"Canaanite & later Israelite city.",
+                "coordinates":"31°31'57.4\"N 35°05'59.3\"E"
+            },
+            {
+                "name":"Damascus",
+                "coordinates":"33°30'49.7\"N 36°16'35.4\"E"
+            },
+            {
+                "name":"Tjaru",
+                "description":"Also part of The Way of Horus.",
+                "coordinates":"30°56'08.9\"N 32°34'35.8\"E"
+            },
+            {
+                "name":"Gaza",
+                "description":"The Philistines (Peleset) settled in the Pentapolis.",
+                "coordinates":"31°30'22.0\"N 34°28'00.1\"E"
+            }
+            ]
+        },
+        {
+            "route_name":"The Way of Horus route",
+            "stops":[
+            {
+                "name":"Tjaru",
+                "coordinates":"30°56'08.9\"N 32°34'35.8\"E"
+            },
+            {
+                "name":"Bir el-Abd",
+                "description":"Desert water stop, Sinai.",
+                "coordinates":"30°30'25.9\"N 33°01'09.5\"E"
+            },
+            {
+                "name":"Tell el-Farama",
+                "description":"Ancient Pelusium, gateway to Canaan.",
+                "coordinates":"31°03'07.2\"N 32°32'36.2\"E"
+            }
+            ]
+        },
+        {
+            "route_name":"The Forty Days Road route (Egypt to Sudan)",
+            "stops":[
+            {
+                "name":"The Darb el-Arbain",
+                "description":"A major north-south desert trade route connecting Upper Egypt to Nubia and Sudan. It was famous for caravans transporting gold, incense, ivory, and slaves.",
+                "coordinates":"27°10'44.8\"N 31°11'07.4\"E"
+            },
+            {
+                "name":"The Darb el-Arbain",
+                "description":"Kharga Oasis.",
+                "coordinates":"25°27'04.3\"N 30°32'48.1\"E"
+            },
+            {
+                "name":"Selima Oasis",
+                "description":"Part of the Darb el-Arbain.",
+                "coordinates":"19°53'06.0\"N 29°18'15.1\"E"
+            }
+            ]
+        },
+        {
+            "route_name":"The Darb el-Arbain route",
+            "stops":[
+            {
+                "name":"Kharga Oasis",
+                "coordinates":"25°27'04.3\"N 30°32'48.1\"E"
+            },
+            {
+                "name":"Selima Oasis",
+                "coordinates":"19°53'06.0\"N 29°18'15.1\"E"
+            },
+            {
+                "name":"Kawa Oasis",
+                "coordinates":"18°03'09.0\"N 30°57'23.0\"E"
+            },
+            {
+                "name":"Kerma",
+                "description":"Major Nubian Kingdom, end of route.",
+                "coordinates":"19°36'36.0\"N 30°24'54.0\"E"
+            }
+            ]
+        },
+        {
+            "route_name":"The Red Sea Trade route",
+            "stops":[
+            {
+                "name":"Wadi al-Jarf",
+                "description":"Oldest known Egyptian harbor, Red Sea.",
+                "coordinates":"29°20'53.2\"N 32°39'17.3\"E"
+            },
+            {
+                "name":"Mersa Gawasis",
+                "description":"Middle Kingdom Red Sea Port.",
+                "coordinates":"26°36'47.9\"N 34°03'07.9\"E"
+            },
+            {
+                "name":"Quseir al-Qadim",
+                "description":"Possible Roman continuation of this route.",
+                "coordinates":"26°09'00.0\"N 34°16'00.1\"E"
+            },
+            {
+                "name":"Aden, Yemen",
+                "description":"Arabian trade hub for incense & myrrh.",
+                "coordinates":"12°46'45.8\"N 45°02'12.1\"E"
+            },
+            {
+                "name":"Punt",
+                "description":"Likely near modern Eritrea or Somalia.",
+                "coordinates":"10°00'00.0\"N 48°00'00.0\"E"
+            }
+            ]
+        }
+    ],
+}
