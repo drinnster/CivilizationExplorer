@@ -1,6 +1,6 @@
 # Civilization Explorer
 
-**CivilizationExplorer** is a digital exploration tool designed to provide insights into ancient civilizations, their histories, timelines, key structures, and geographical distributions. This project aims to preserve and present knowledge about early human societies and their cultural legacies, making it accessible for educational and research purposes.
+**Civilization Explorer** is a digital exploration tool designed to provide insights into ancient civilizations, their histories, timelines, key structures, and geographical distributions. This project aims to preserve and present knowledge about early human societies and their cultural legacies, making it accessible for educational and research purposes.
 
 Note: UI has not been created yet.
 
@@ -13,7 +13,7 @@ Note: UI has not been created yet.
 
 ## Description
 
-CivilizationExplorer is an interactive repository of ancient civilizations, spanning from prehistoric eras to the rise and fall of great empires. The project includes:
+Civilization Explorer is an interactive repository of ancient civilizations, spanning from prehistoric eras to the rise and fall of great empires. The project includes:
 
 - **Ancient Civilizations**: From the Paleolithic to the rise of complex societies like Sumer and Ancient Egypt.
 - **Key Structures**: A catalog of significant architectural feats such as the pyramids, temples, and early cities.
@@ -38,7 +38,7 @@ This tool allows users to explore, compare, and understand the interconnectednes
 
 ## History Mapping Visualization
 
-One of the unique features of **CivilizationExplorer** is the **History Mapping Visualization**, which provides an interactive and dynamic way to explore the geographical spread and timelines of ancient civilizations. 
+One of the unique features of **Civilization Explorer** is the **History Mapping Visualization**, which provides an interactive and dynamic way to explore the geographical spread and timelines of ancient civilizations. 
 
 ### Key Features of the History Mapping Visualization:
 - **Geographical Distribution**: The tool shows where each civilization existed, allowing users to view ancient cities, regions, and trade routes across maps.
