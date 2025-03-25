@@ -38,8 +38,8 @@ const ancientEgyptDynasties = [
   { name: "Late Period", dynasty: 29, start: "1950 years ago", end: "1910 years ago" },
   { name: "Late Period", dynasty: 30, start: "1910 years ago", end: "1850 years ago" },
 
-  { name: "Argead Dynasty", dynasty: 31, start: "2336 years ago", end: "2316 years ago" },
-  { name: "Ptolemaic Dynasty", dynasty: 32, start: "2316 years ago", end: "2057 years ago" },
+  { name: "Greco-Roman Period", dynasty: 31, start: "2336 years ago", end: "2316 years ago" },
+  { name: "Greco-Roman Period", dynasty: 32, start: "2316 years ago", end: "2057 years ago" },
   { name: "Roman Egypt", dynasty: 33, start: "2057 years ago", end: "1650 years ago" }
 
 ];
