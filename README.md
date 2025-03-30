@@ -1,6 +1,6 @@
-# Civilization Explorer
+# The Historical Timeline
 
-**Civilization Explorer** is a digital exploration tool designed to provide insights into ancient civilizations, their histories, timelines, key structures, and geographical distributions. This project aims to preserve and present knowledge about early human societies and their cultural legacies, making it accessible for educational and research purposes.
+**The Historical Timeline** is a digital exploration tool designed to provide insights into ancient civilizations, their histories, timelines, key structures, and geographical distributions. This project aims to preserve and present knowledge about early human societies and their cultural legacies, making it accessible for educational and research purposes.
 
 Note: UI has not been created yet.
 
@@ -13,7 +13,7 @@ Note: UI has not been created yet.
 
 ## Description
 
-Civilization Explorer is an interactive repository of ancient civilizations, spanning from prehistoric eras to the rise and fall of great empires. The project includes:
+The Historical Timeline is an interactive repository of ancient civilizations, spanning from prehistoric eras to the rise and fall of great empires. The project includes:
 
 - **Ancient Civilizations**: From the Paleolithic to the rise of complex societies like Sumer and Ancient Egypt.
 - **Key Structures**: A catalog of significant architectural feats such as the pyramids, temples, and early cities.
