@@ -38,7 +38,7 @@ This tool allows users to explore, compare, and understand the interconnectednes
 
 ## History Mapping Visualization
 
-One of the unique features of **Civilization Explorer** is the **History Mapping Visualization**, which provides an interactive and dynamic way to explore the geographical spread and timelines of ancient civilizations. 
+One of the unique features of **The Historical Timeline** is the **History Mapping Visualization**, which provides an interactive and dynamic way to explore the geographical spread and timelines of ancient civilizations. 
 
 ### Key Features of the History Mapping Visualization:
 - **Geographical Distribution**: The tool shows where each civilization existed, allowing users to view ancient cities, regions, and trade routes across maps.
